@@ -1,0 +1,17 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\BLL.tb_PROP_processo_operador.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\BLL.tb_PROP_processo_operador.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\BLL.tb_PROP_processo_operador.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\DAL.tb_PROP_processo_operador.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\DTO.tb_PROP_processo_operador.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\Newtonsoft.Json.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\Apoio.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\DTO.tb_PROP_processo_operador.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\DTO.tb_PROP_processo_operador.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\DAL.tb_PROP_processo_operador.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\bin\Release\DAL.tb_PROP_processo_operador.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\obj\Release\BLL.tb_PROP_processo_operador.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\obj\Release\BLL.tb_PROP_processo_operador.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PROP_processo_operador\obj\Release\BLL.tb_PROP_processo_operador.pdb

@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_AVEN_alerta_vencimento\bin\Debug\DTO.tb_AVEN_alerta_vencimento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_AVEN_alerta_vencimento\bin\Debug\DTO.tb_AVEN_alerta_vencimento.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_AVEN_alerta_vencimento\bin\Debug\DTO.tb_AVEN_alerta_vencimento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_AVEN_alerta_vencimento\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_AVEN_alerta_vencimento\obj\Debug\DTO.tb_AVEN_alerta_vencimento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_AVEN_alerta_vencimento\obj\Debug\DTO.tb_AVEN_alerta_vencimento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_AVEN_alerta_vencimento\obj\Debug\DTO.tb_AVEN_alerta_vencimento.pdb

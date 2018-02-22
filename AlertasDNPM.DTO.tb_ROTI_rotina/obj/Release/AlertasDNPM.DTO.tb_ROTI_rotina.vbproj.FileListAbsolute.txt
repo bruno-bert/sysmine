@@ -1,0 +1,7 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\bin\Release\DTO.tb_ROTI_rotina.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\bin\Release\DTO.tb_ROTI_rotina.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\bin\Release\DTO.tb_ROTI_rotina.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\obj\Release\DTO.tb_ROTI_rotina.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\obj\Release\DTO.tb_ROTI_rotina.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\obj\Release\DTO.tb_ROTI_rotina.pdb

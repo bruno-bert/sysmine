@@ -1,0 +1,3 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_EMPR_empresa\bin\Release\DTO.tb_EMPR_empresa.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_EMPR_empresa\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_EMPR_empresa\obj\Release\DTO.tb_EMPR_empresa.dll

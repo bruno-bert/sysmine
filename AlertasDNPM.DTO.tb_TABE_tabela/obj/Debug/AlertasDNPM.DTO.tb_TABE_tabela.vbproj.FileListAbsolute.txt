@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TABE_tabela\bin\Debug\DTO.tb_TABE_tabela.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TABE_tabela\bin\Debug\DTO.tb_TABE_tabela.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TABE_tabela\bin\Debug\DTO.tb_TABE_tabela.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TABE_tabela\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TABE_tabela\obj\Debug\DTO.tb_TABE_tabela.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TABE_tabela\obj\Debug\DTO.tb_TABE_tabela.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TABE_tabela\obj\Debug\DTO.tb_TABE_tabela.pdb

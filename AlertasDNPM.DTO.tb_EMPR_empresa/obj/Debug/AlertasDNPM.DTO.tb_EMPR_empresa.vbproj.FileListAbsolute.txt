@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_EMPR_empresa\bin\Debug\DTO.tb_EMPR_empresa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_EMPR_empresa\bin\Debug\DTO.tb_EMPR_empresa.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_EMPR_empresa\bin\Debug\DTO.tb_EMPR_empresa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_EMPR_empresa\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_EMPR_empresa\obj\Debug\DTO.tb_EMPR_empresa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_EMPR_empresa\obj\Debug\DTO.tb_EMPR_empresa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_EMPR_empresa\obj\Debug\DTO.tb_EMPR_empresa.pdb

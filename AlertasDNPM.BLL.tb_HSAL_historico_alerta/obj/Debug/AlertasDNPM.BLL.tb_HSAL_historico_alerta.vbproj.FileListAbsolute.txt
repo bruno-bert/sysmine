@@ -1,0 +1,17 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\BLL.tb_HSAL_historico_alerta.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\BLL.tb_HSAL_historico_alerta.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\BLL.tb_HSAL_historico_alerta.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\DAL.tb_HSAL_historico_alerta.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\DTO.tb_HSAL_historico_alerta.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\DAL.tb_HSAL_historico_alerta.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\DAL.tb_HSAL_historico_alerta.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\DTO.tb_HSAL_historico_alerta.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\bin\Debug\DTO.tb_HSAL_historico_alerta.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\obj\Debug\BLL.tb_HSAL_historico_alerta.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\obj\Debug\BLL.tb_HSAL_historico_alerta.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_HSAL_historico_alerta\obj\Debug\BLL.tb_HSAL_historico_alerta.pdb

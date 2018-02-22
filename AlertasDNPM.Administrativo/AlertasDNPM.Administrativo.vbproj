@@ -1,0 +1,944 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{673ADA1B-EE26-4C5D-83EF-38514D7615FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SGPM.My.MyApplication</StartupObject>
+    <RootNamespace>SGPM</RootNamespace>
+    <AssemblyName>SGPM</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <TargetFrameworkSubset>Full</TargetFrameworkSubset>
+    <ApplicationIcon>dnpm+logo.ico</ApplicationIcon>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugSymbols>true</DebugSymbols>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GMap.NET.Core, Version=1.7.0.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\recursos\GMAP\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.7.0.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\recursos\GMAP\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsPresentation, Version=1.7.0.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\recursos\GMAP\GMap.NET.WindowsPresentation.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.4.0.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>refs\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="IconToolStrip, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>refs\IconToolStrip.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip.Reduced, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>refs\Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.3.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>refs\itextsharp-all-5.3.3\itextsharp-dll-core-5.3.3\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="ListViewPrinter, Version=2.5.0.25971, Culture=neutral, PublicKeyToken=21b031892bc54fb5, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>refs\ListViewPrinter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="mkc_ExpandingPanel, Version=1.0.0.1, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>refs\mkc_ExpandingPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="ObjectListView, Version=2.5.1.25874, Culture=neutral, PublicKeyToken=b1c5bf581481bcd4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>refs\ObjectListView.dll</HintPath>
+    </Reference>
+    <Reference Include="Owf.Controls.A1Panel, Version=1.0.3790.21508, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>refs\Owf.Controls.A1Panel.dll</HintPath>
+    </Reference>
+    <Reference Include="SparkleLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f18757923c14d628, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>refs\SparkleLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsReport.vb" />
+    <Compile Include="form_lista_evento.Designer.vb">
+      <DependentUpon>form_lista_evento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_lista_evento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_backup.Designer.vb">
+      <DependentUpon>form_backup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_backup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_grid_processo.Designer.vb">
+      <DependentUpon>form_grid_processo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_grid_processo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_mapa.Designer.vb">
+      <DependentUpon>form_mapa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_mapa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_relatorio_documento.Designer.vb">
+      <DependentUpon>form_relatorio_documento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_relatorio_documento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_limpa.Designer.vb">
+      <DependentUpon>form_limpa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_limpa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_produto.Designer.vb">
+      <DependentUpon>form_produto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_produto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_mp.Designer.vb">
+      <DependentUpon>form_mp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_mp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_sd.Designer.vb">
+      <DependentUpon>form_sd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_sd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_info.Designer.vb">
+      <DependentUpon>form_info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_evento.Designer.vb">
+      <DependentUpon>form_evento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_evento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_documento.Designer.vb">
+      <DependentUpon>form_documento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_documento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_condicao.Designer.vb">
+      <DependentUpon>form_condicao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_condicao.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_associado.Designer.vb">
+      <DependentUpon>form_associado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_associado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_municipio.Designer.vb">
+      <DependentUpon>form_municipio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_municipio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_substancia.Designer.vb">
+      <DependentUpon>form_substancia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_substancia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_titulo.Designer.vb">
+      <DependentUpon>form_titulo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_titulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_busca.Designer.vb">
+      <DependentUpon>form_busca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_busca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_down.Designer.vb">
+      <DependentUpon>form_down.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_down.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_rotina.Designer.vb">
+      <DependentUpon>form_rotina.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_rotina.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_alerta.Designer.vb">
+      <DependentUpon>form_alerta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_alerta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_processo.Designer.vb">
+      <DependentUpon>form_processo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_processo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_empresa.Designer.vb">
+      <DependentUpon>form_empresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_empresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_main.Designer.vb">
+      <DependentUpon>form_main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_config.Designer.vb">
+      <DependentUpon>form_config.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_config.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_operador.Designer.vb">
+      <DependentUpon>form_operador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_operador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_processo_resumido.Designer.vb">
+      <DependentUpon>form_processo_resumido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_processo_resumido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_release.Designer.vb">
+      <DependentUpon>form_release.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_release.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_sobre.Designer.vb">
+      <DependentUpon>form_sobre.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_sobre.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImageMap.vb" />
+    <Compile Include="modGeral.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PdfManipulation.vb" />
+    <Compile Include="Report.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Report.vb">
+      <DependentUpon>Report.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="TabControlEx.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="form_lista_evento.resx">
+      <DependentUpon>form_lista_evento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_backup.resx">
+      <DependentUpon>form_backup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELA_PROC.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_grid_processo.resx">
+      <DependentUpon>form_grid_processo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_mapa.resx">
+      <DependentUpon>form_mapa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GRAFICO_DOC.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELA_DOC.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_relatorio_documento.resx">
+      <DependentUpon>form_relatorio_documento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_limpa.resx">
+      <DependentUpon>form_limpa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_produto.resx">
+      <DependentUpon>form_produto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_mp.resx">
+      <DependentUpon>form_mp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_sd.resx">
+      <DependentUpon>form_sd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_info.resx">
+      <DependentUpon>form_info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_evento.resx">
+      <DependentUpon>form_evento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_documento.resx">
+      <DependentUpon>form_documento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_condicao.resx">
+      <DependentUpon>form_condicao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_associado.resx">
+      <DependentUpon>form_associado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_municipio.resx">
+      <DependentUpon>form_municipio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_substancia.resx">
+      <DependentUpon>form_substancia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_titulo.resx">
+      <DependentUpon>form_titulo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_busca.resx">
+      <DependentUpon>form_busca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_down.resx">
+      <DependentUpon>form_down.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_rotina.resx">
+      <DependentUpon>form_rotina.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_alerta.resx">
+      <DependentUpon>form_alerta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_processo.resx">
+      <DependentUpon>form_processo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_empresa.resx">
+      <DependentUpon>form_empresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_main.resx">
+      <DependentUpon>form_main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_config.resx">
+      <DependentUpon>form_config.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_operador.resx">
+      <DependentUpon>form_operador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_processo_resumido.resx">
+      <DependentUpon>form_processo_resumido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_release.resx">
+      <DependentUpon>form_release.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_sobre.resx">
+      <DependentUpon>form_sobre.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PROCESSO.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Report.xsc">
+      <DependentUpon>Report.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Report.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Report.Designer.vb</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Report.xss">
+      <DependentUpon>Report.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AlertasDNPM.BLL.Rotina\AlertasDNPM.BLL.Rotina.vbproj">
+      <Project>{5998EC4B-3B26-4941-BD76-2F739622EEFF}</Project>
+      <Name>AlertasDNPM.BLL.Rotina</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_ALER_alerta\AlertasDNPM.BLL.tb_ALER_alerta.vbproj">
+      <Project>{10769F44-2430-41D4-A950-A771F4499ACE}</Project>
+      <Name>AlertasDNPM.BLL.tb_ALER_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_BACK_backup\AlertasDNPM.BLL.tb_BACK_backup.vbproj">
+      <Project>{65F31043-9775-4989-AE39-9933E2E26E94}</Project>
+      <Name>AlertasDNPM.BLL.tb_BACK_backup</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_COND_condicao\AlertasDNPM.BLL.tb_COND_condicao.vbproj">
+      <Project>{C6A13691-5C25-4A2F-8869-2871215108FD}</Project>
+      <Name>AlertasDNPM.BLL.tb_COND_condicao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_COVE_controle_vencimento\AlertasDNPM.BLL.tb_COVE_controle_vencimento.vbproj">
+      <Project>{76AEB6FD-3D4F-42C8-A477-C7BF22808D14}</Project>
+      <Name>AlertasDNPM.BLL.tb_COVE_controle_vencimento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_EMPR_empresa\AlertasDNPM.BLL.tb_EMPR_empresa.vbproj">
+      <Project>{9711744F-A832-42B9-B317-AED5DC3735C0}</Project>
+      <Name>AlertasDNPM.BLL.tb_EMPR_empresa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_FASE_fase\AlertasDNPM.BLL.tb_FASE_fase.vbproj">
+      <Project>{9D47B98E-BB8E-4643-B2D7-07D150F63D29}</Project>
+      <Name>AlertasDNPM.BLL.tb_FASE_fase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_HSAL_historico_alerta\AlertasDNPM.BLL.tb_HSAL_historico_alerta.vbproj">
+      <Project>{87AD19EE-18BB-43B2-A94C-A5AE50FFFB78}</Project>
+      <Name>AlertasDNPM.BLL.tb_HSAL_historico_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_LESI_log_erro_sistema\AlertasDNPM.BLL.tb_LESI_log_erro_sistema.vbproj">
+      <Project>{22C30BFC-5643-44C7-B982-89D685C1868A}</Project>
+      <Name>AlertasDNPM.BLL.tb_LESI_log_erro_sistema</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_MPRI_mprima\AlertasDNPM.BLL.tb_MPRI_mprima.vbproj">
+      <Project>{FECE7FAD-738A-4AD8-A5A6-17DF2C4499EB}</Project>
+      <Name>AlertasDNPM.BLL.tb_MPRI_mprima</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_MUNI_municipio\AlertasDNPM.BLL.tb_MUNI_municipio.vbproj">
+      <Project>{44CE170D-1CFB-4C6C-8444-F4D9E9BFC04A}</Project>
+      <Name>AlertasDNPM.BLL.tb_MUNI_municipio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_OPER_operador\AlertasDNPM.BLL.tb_OPER_operador.vbproj">
+      <Project>{3335525C-7C14-40EA-9FCB-EB611CDCE8E8}</Project>
+      <Name>AlertasDNPM.BLL.tb_OPER_operador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_OSSD_objeto_sd\AlertasDNPM.BLL.tb_OSSD_objeto_sd.vbproj">
+      <Project>{C628A9F9-0EFC-4139-821F-3AC9378EF329}</Project>
+      <Name>AlertasDNPM.BLL.tb_OSSD_objeto_sd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PASO_processo_associado\AlertasDNPM.BLL.tb_PASO_processo_associado.vbproj">
+      <Project>{852C468D-1F1B-446F-9D63-45C6827D546B}</Project>
+      <Name>AlertasDNPM.BLL.tb_PASO_processo_associado</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PCON_processo_condicao\AlertasDNPM.BLL.tb_PCON_processo_condicao.vbproj">
+      <Project>{8DABB313-AF62-46C8-B9B9-6A680A0F80D1}</Project>
+      <Name>AlertasDNPM.BLL.tb_PCON_processo_condicao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PDOC_processo_documento\AlertasDNPM.BLL.tb_PDOC_processo_documento.vbproj">
+      <Project>{D43CE65F-5662-41B5-8ABD-73D7B8A8A456}</Project>
+      <Name>AlertasDNPM.BLL.tb_PDOC_processo_documento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PGER_parametro_geral\AlertasDNPM.BLL.tb_PGER_parametro_geral.vbproj">
+      <Project>{9F9E4293-4164-4E95-B9A2-D8A2D80BB78A}</Project>
+      <Name>AlertasDNPM.BLL.tb_PGER_parametro_geral</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PINF_processo_info\AlertasDNPM.BLL.tb_PINF_processo_info.vbproj">
+      <Project>{29344206-8267-44AB-9E31-45C5C580F33B}</Project>
+      <Name>AlertasDNPM.BLL.tb_PINF_processo_info</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PMUN_processo_municipio\AlertasDNPM.BLL.tb_PMUN_processo_municipio.vbproj">
+      <Project>{C3C7AF87-4853-4C8E-A2F7-052E01FE6C8B}</Project>
+      <Name>AlertasDNPM.BLL.tb_PMUN_processo_municipio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PNOT_processo_nota\AlertasDNPM.BLL.tb_PNOT_processo_nota.vbproj">
+      <Project>{3656EA38-A461-4769-B6A0-E9B8C791972F}</Project>
+      <Name>AlertasDNPM.BLL.tb_PNOT_processo_nota</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PORG_processo_orgao\AlertasDNPM.BLL.tb_PORG_processo_orgao.vbproj">
+      <Project>{33BB94D4-9FE0-4E57-97AB-30EF8179A975}</Project>
+      <Name>AlertasDNPM.BLL.tb_PORG_processo_orgao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PRAL_processo_alerta\AlertasDNPM.BLL.tb_PRAL_processo_alerta.vbproj">
+      <Project>{2070FA04-691E-492D-BED2-53373AD35EFE}</Project>
+      <Name>AlertasDNPM.BLL.tb_PRAL_processo_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PREV_processo_evento\AlertasDNPM.BLL.tb_PREV_processo_evento.vbproj">
+      <Project>{FAAF62A5-96F7-4D56-93A1-D774F14FBD9C}</Project>
+      <Name>AlertasDNPM.BLL.tb_PREV_processo_evento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PRMP_processo_mprima\AlertasDNPM.BLL.tb_PRMP_processo_mprima.vbproj">
+      <Project>{2C720262-DBA6-43CD-AC68-12C4434A8495}</Project>
+      <Name>AlertasDNPM.BLL.tb_PRMP_processo_mprima</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PROC_processo\AlertasDNPM.BLL.tb_PROC_processo.vbproj">
+      <Project>{4DF3993C-992B-403F-AA65-AAEE8552A0C1}</Project>
+      <Name>AlertasDNPM.BLL.tb_PROC_processo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PROD_produto\AlertasDNPM.BLL.tb_PROD_produto.vbproj">
+      <Project>{75373230-BC54-4335-9DCA-5B6E25721A49}</Project>
+      <Name>AlertasDNPM.BLL.tb_PROD_produto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PROP_processo_operador\AlertasDNPM.BLL.tb_PROP_processo_operador.vbproj">
+      <Project>{8444BE09-B325-47B7-A8E2-C64D5E7E7302}</Project>
+      <Name>AlertasDNPM.BLL.tb_PROP_processo_operador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PRPD_processo_produto\AlertasDNPM.BLL.tb_PRPD_processo_produto.vbproj">
+      <Project>{95AFE7EF-5741-48DE-91AB-91B29E70E04C}</Project>
+      <Name>AlertasDNPM.BLL.tb_PRPD_processo_produto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PRSD_processo_sd\AlertasDNPM.BLL.tb_PRSD_processo_sd.vbproj">
+      <Project>{4CABB6B7-C815-45EB-BFF0-A958D2BF592C}</Project>
+      <Name>AlertasDNPM.BLL.tb_PRSD_processo_sd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PSUB_processo_substancia\AlertasDNPM.BLL.tb_PSUB_processo_substancia.vbproj">
+      <Project>{9B6CF277-EF26-4B56-81E9-E5CECF7617AF}</Project>
+      <Name>AlertasDNPM.BLL.tb_PSUB_processo_substancia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PTIT_processo_titulo\AlertasDNPM.BLL.tb_PTIT_processo_titulo.vbproj">
+      <Project>{BE567D9C-96F5-42BC-B8D0-25A366E809EE}</Project>
+      <Name>AlertasDNPM.BLL.tb_PTIT_processo_titulo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_ROTI_rotina\AlertasDNPM.BLL.tb_ROTI_rotina.vbproj">
+      <Project>{A1426A34-EF83-49FA-A37B-E8C97F8814A5}</Project>
+      <Name>AlertasDNPM.BLL.tb_ROTI_rotina</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_SCON_situacao_condicao\AlertasDNPM.BLL.tb_SCON_situacao_condicao.vbproj">
+      <Project>{6981C220-BB99-4E1A-8A69-8A2912D36D0C}</Project>
+      <Name>AlertasDNPM.BLL.tb_SCON_situacao_condicao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_SINF_situacao_info\AlertasDNPM.BLL.tb_SINF_situacao_info.vbproj">
+      <Project>{00337042-30C6-4DB0-B6ED-D737D039A181}</Project>
+      <Name>AlertasDNPM.BLL.tb_SINF_situacao_info</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_SISD_situacao_sd\AlertasDNPM.BLL.tb_SISD_situacao_sd.vbproj">
+      <Project>{21E24A8A-2E8D-4EBA-8D29-F8B436F4318D}</Project>
+      <Name>AlertasDNPM.BLL.tb_SISD_situacao_sd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_SITU_situacao_titulo\AlertasDNPM.BLL.tb_SITU_situacao_titulo.vbproj">
+      <Project>{D3CB433F-8D2D-4E9B-8F50-BB2887AD1941}</Project>
+      <Name>AlertasDNPM.BLL.tb_SITU_situacao_titulo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_SUBS_substancia\AlertasDNPM.BLL.tb_SUBS_substancia.vbproj">
+      <Project>{1125E5C1-93A5-4AA7-B574-2349A617021E}</Project>
+      <Name>AlertasDNPM.BLL.tb_SUBS_substancia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_TABE_tabela\AlertasDNPM.BLL.tb_TABE_tabela.vbproj">
+      <Project>{BD17606A-C103-4307-A5B3-32A60ADEDE1D}</Project>
+      <Name>AlertasDNPM.BLL.tb_TABE_tabela</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_TINF_tipo_info\AlertasDNPM.BLL.tb_TINF_tipo_info.vbproj">
+      <Project>{072BD7F0-5F6C-4182-817E-2909838EDD8D}</Project>
+      <Name>AlertasDNPM.BLL.tb_TINF_tipo_info</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_TTIT_tipo_titulo\AlertasDNPM.BLL.tb_TTIT_tipo_titulo.vbproj">
+      <Project>{34BFC1CC-626B-4519-B028-50D59947FCCD}</Project>
+      <Name>AlertasDNPM.BLL.tb_TTIT_tipo_titulo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_TUSO_tipo_uso\AlertasDNPM.BLL.tb_TUSO_tipo_uso.vbproj">
+      <Project>{97EF2897-9310-48BB-9F7C-DA212D1FB37F}</Project>
+      <Name>AlertasDNPM.BLL.tb_TUSO_tipo_uso</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\AlertasDNPM.BLL.tb_UNFE_unidade_federativa.vbproj">
+      <Project>{2178EA40-1E11-4334-B757-69B2E51FBA09}</Project>
+      <Name>AlertasDNPM.BLL.tb_UNFE_unidade_federativa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_UNME_unidade_medida\AlertasDNPM.BLL.tb_UNME_unidade_medida.vbproj">
+      <Project>{14AAFA6E-69AC-47FF-B9F3-51AC28C2F146}</Project>
+      <Name>AlertasDNPM.BLL.tb_UNME_unidade_medida</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_UPRD_uso_produto\AlertasDNPM.BLL.tb_UPRD_uso_produto.vbproj">
+      <Project>{24D72F99-CBAC-4845-B381-B8CF2B4445F3}</Project>
+      <Name>AlertasDNPM.BLL.tb_UPRD_uso_produto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_ALER_alerta\AlertasDNPM.DTO.tb_ALER_alerta.vbproj">
+      <Project>{83D8AA2D-7632-46BD-A45D-83D4B9D7E6C4}</Project>
+      <Name>AlertasDNPM.DTO.tb_ALER_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_BACK_backup\AlertasDNPM.DTO.tb_BACK_backup.vbproj">
+      <Project>{3FF27441-C53D-45BF-A4F6-100140DE539B}</Project>
+      <Name>AlertasDNPM.DTO.tb_BACK_backup</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_COND_condicao\AlertasDNPM.DTO.tb_COND_condicao.vbproj">
+      <Project>{5B38CE97-7F4F-42D8-8B20-9FDAFAE1F1BF}</Project>
+      <Name>AlertasDNPM.DTO.tb_COND_condicao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_COVE_controle_vencimento\AlertasDNPM.DTO.tb_COVE_controle_vencimento.vbproj">
+      <Project>{39C6E70A-1D6D-4A79-B236-2FC947C7350B}</Project>
+      <Name>AlertasDNPM.DTO.tb_COVE_controle_vencimento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_EMPR_empresa\AlertasDNPM.DTO.tb_EMPR_empresa.vbproj">
+      <Project>{362288B7-A507-4465-BFBA-E0F47FBA34A5}</Project>
+      <Name>AlertasDNPM.DTO.tb_EMPR_empresa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_FASE_fase\AlertasDNPM.DTO.tb_FASE_fase.vbproj">
+      <Project>{3EBAA328-6D3C-4561-8A6D-E65466B57F64}</Project>
+      <Name>AlertasDNPM.DTO.tb_FASE_fase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_HSAL_historico_alerta\AlertasDNPM.DTO.tb_HSAL_historico_alerta.vbproj">
+      <Project>{005AF0FC-C6D0-44EE-A710-52041B210B99}</Project>
+      <Name>AlertasDNPM.DTO.tb_HSAL_historico_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\AlertasDNPM.DTO.tb_LESI_log_erro_sistema.vbproj">
+      <Project>{98A4DC06-F431-49F7-9F7A-C240B39975C6}</Project>
+      <Name>AlertasDNPM.DTO.tb_LESI_log_erro_sistema</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_MPRI_mprima\AlertasDNPM.DTO.tb_MPRI_mprima.vbproj">
+      <Project>{2808CBEA-0C73-4F4B-8477-563AEF8F1FBA}</Project>
+      <Name>AlertasDNPM.DTO.tb_MPRI_mprima</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_MUNI_municipio\AlertasDNPM.DTO.tb_MUNI_municipio.vbproj">
+      <Project>{EE92F2E0-022D-4353-AE78-860871DFE4BA}</Project>
+      <Name>AlertasDNPM.DTO.tb_MUNI_municipio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_OPER_operador\AlertasDNPM.DTO.tb_OPER_operador.vbproj">
+      <Project>{B85284A8-98E1-472F-BD90-20A0D3697B62}</Project>
+      <Name>AlertasDNPM.DTO.tb_OPER_operador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_OSSD_objeto_sd\AlertasDNPM.DTO.tb_OSSD_objeto_sd.vbproj">
+      <Project>{3A93FF32-1873-497A-9094-B9FA0E9C5719}</Project>
+      <Name>AlertasDNPM.DTO.tb_OSSD_objeto_sd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PASO_processo_associado\AlertasDNPM.DTO.tb_PASO_processo_associado.vbproj">
+      <Project>{023A0C85-51C2-40F7-A518-C832761F182F}</Project>
+      <Name>AlertasDNPM.DTO.tb_PASO_processo_associado</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PCON_processo_condicao\AlertasDNPM.DTO.tb_PCON_processo_condicao.vbproj">
+      <Project>{45DD8DA3-5CBE-459C-B164-248DD292A479}</Project>
+      <Name>AlertasDNPM.DTO.tb_PCON_processo_condicao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PDOC_processo_documento\AlertasDNPM.DTO.tb_PDOC_processo_documento.vbproj">
+      <Project>{D4436E62-129A-479B-A055-C70F3EE98F59}</Project>
+      <Name>AlertasDNPM.DTO.tb_PDOC_processo_documento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PGER_parametro_geral\AlertasDNPM.DTO.tb_PGER_parametro_geral.vbproj">
+      <Project>{832C7F20-B101-4351-B890-D05E6FE444EE}</Project>
+      <Name>AlertasDNPM.DTO.tb_PGER_parametro_geral</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PINF_processo_info\AlertasDNPM.DTO.tb_PINF_processo_info.vbproj">
+      <Project>{0CFC9661-8306-4C20-9062-9C8DA916CF00}</Project>
+      <Name>AlertasDNPM.DTO.tb_PINF_processo_info</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PMUN_processo_municipio\AlertasDNPM.DTO.tb_PMUN_processo_municipio.vbproj">
+      <Project>{603B1098-300E-4B62-A3E3-B409718FEBE8}</Project>
+      <Name>AlertasDNPM.DTO.tb_PMUN_processo_municipio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PNOT_processo_nota\AlertasDNPM.DTO.tb_PNOT_processo_nota.vbproj">
+      <Project>{D033988F-992B-4636-BD1A-9BF2696CF476}</Project>
+      <Name>AlertasDNPM.DTO.tb_PNOT_processo_nota</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PORG_processo_orgao\AlertasDNPM.DTO.tb_PORG_processo_orgao.vbproj">
+      <Project>{6FA996AD-52D3-43D8-8EB1-4DB9B1BF2AA5}</Project>
+      <Name>AlertasDNPM.DTO.tb_PORG_processo_orgao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PRAL_processo_alerta\AlertasDNPM.DTO.tb_PRAL_processo_alerta.vbproj">
+      <Project>{D101F78B-24B6-4988-AF56-D21A7E662083}</Project>
+      <Name>AlertasDNPM.DTO.tb_PRAL_processo_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PREV_processo_evento\AlertasDNPM.DTO.tb_PREV_processo_evento.vbproj">
+      <Project>{A0FC4252-1BDE-446B-AA72-5606159701E8}</Project>
+      <Name>AlertasDNPM.DTO.tb_PREV_processo_evento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PRMP_processo_mprima\AlertasDNPM.DTO.tb_PRMP_processo_mprima.vbproj">
+      <Project>{704B1630-357B-4086-B870-1CED3C1463E3}</Project>
+      <Name>AlertasDNPM.DTO.tb_PRMP_processo_mprima</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PROC_processo\AlertasDNPM.DTO.tb_PROC_processo.vbproj">
+      <Project>{5D21FF74-F195-4284-B19F-1E1518E499C9}</Project>
+      <Name>AlertasDNPM.DTO.tb_PROC_processo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PROD_produto\AlertasDNPM.DTO.tb_PROD_produto.vbproj">
+      <Project>{3C835A3B-E404-48AF-A336-D236559BA858}</Project>
+      <Name>AlertasDNPM.DTO.tb_PROD_produto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PROP_processo_operador\AlertasDNPM.DTO.tb_PROP_processo_operador.vbproj">
+      <Project>{A2C4E003-6072-4ED6-828D-CE7E79D78D52}</Project>
+      <Name>AlertasDNPM.DTO.tb_PROP_processo_operador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PRPD_processo_produto\AlertasDNPM.DTO.tb_PRPD_processo_produto.vbproj">
+      <Project>{086686C2-ABCE-4AFC-BF32-7BCED505AEEC}</Project>
+      <Name>AlertasDNPM.DTO.tb_PRPD_processo_produto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PRSD_processo_sd\AlertasDNPM.DTO.tb_PRSD_processo_sd.vbproj">
+      <Project>{AF8E444B-EF66-41F5-B10C-A3167BB224E0}</Project>
+      <Name>AlertasDNPM.DTO.tb_PRSD_processo_sd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PSUB_processo_substancia\AlertasDNPM.DTO.tb_PSUB_processo_substancia.vbproj">
+      <Project>{16BD6B8C-9BFF-4FA5-A044-5D99B495A99B}</Project>
+      <Name>AlertasDNPM.DTO.tb_PSUB_processo_substancia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PTIT_processo_titulo\AlertasDNPM.DTO.tb_PTIT_processo_titulo.vbproj">
+      <Project>{43855119-47C0-4B74-A425-C6AEA3756043}</Project>
+      <Name>AlertasDNPM.DTO.tb_PTIT_processo_titulo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_ROTI_rotina\AlertasDNPM.DTO.tb_ROTI_rotina.vbproj">
+      <Project>{53F334F6-CB4D-4A0B-9CBD-D12E5FDF5ACC}</Project>
+      <Name>AlertasDNPM.DTO.tb_ROTI_rotina</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_SCON_situacao_condicao\AlertasDNPM.DTO.tb_SCON_situacao_condicao.vbproj">
+      <Project>{D4CE33A5-ADB4-4AE3-B8B7-ACC284AF7D41}</Project>
+      <Name>AlertasDNPM.DTO.tb_SCON_situacao_condicao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_SINF_situacao_info\AlertasDNPM.DTO.tb_SINF_situacao_info.vbproj">
+      <Project>{5F6D6C6B-79BF-4C8C-BFE9-8F62962F6600}</Project>
+      <Name>AlertasDNPM.DTO.tb_SINF_situacao_info</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_SISD_situacao_sd\AlertasDNPM.DTO.tb_SISD_situacao_sd.vbproj">
+      <Project>{30499689-C225-4621-B365-0854D83A86F7}</Project>
+      <Name>AlertasDNPM.DTO.tb_SISD_situacao_sd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_SITU_situacao_titulo\AlertasDNPM.DTO.tb_SITU_situacao_titulo.vbproj">
+      <Project>{ED606907-F6E9-499F-A484-95AEB83E3225}</Project>
+      <Name>AlertasDNPM.DTO.tb_SITU_situacao_titulo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_SUBS_substancia\AlertasDNPM.DTO.tb_SUBS_substancia.vbproj">
+      <Project>{0ECB280A-F8AF-4CF8-9D44-EE4EF84BB961}</Project>
+      <Name>AlertasDNPM.DTO.tb_SUBS_substancia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_TABE_tabela\AlertasDNPM.DTO.tb_TABE_tabela.vbproj">
+      <Project>{4BFC0334-99EF-420A-A61C-9EB1FF8E78A7}</Project>
+      <Name>AlertasDNPM.DTO.tb_TABE_tabela</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_TINF_tipo_info\AlertasDNPM.DTO.tb_TINF_tipo_info.vbproj">
+      <Project>{FD8AD265-3314-4C4E-8A93-A6B6D64DB7B0}</Project>
+      <Name>AlertasDNPM.DTO.tb_TINF_tipo_info</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_TTIT_tipo_titulo\AlertasDNPM.DTO.tb_TTIT_tipo_titulo.vbproj">
+      <Project>{0DCC1F45-3C1C-4223-9FD1-62A8B8CA9AA1}</Project>
+      <Name>AlertasDNPM.DTO.tb_TTIT_tipo_titulo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_TUSO_tipo_uso\AlertasDNPM.DTO.tb_TUSO_tipo_uso.vbproj">
+      <Project>{CE9FF275-167F-47E5-B78D-2B9FC42EF782}</Project>
+      <Name>AlertasDNPM.DTO.tb_TUSO_tipo_uso</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_UNFE_unidade_federativa\AlertasDNPM.DTO.tb_UNFE_unidade_federativa.vbproj">
+      <Project>{D8C0A8EB-E18E-4C23-93B8-6CE5C68CAFF9}</Project>
+      <Name>AlertasDNPM.DTO.tb_UNFE_unidade_federativa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_UNME_unidade_medida\AlertasDNPM.DTO.tb_UNME_unidade_medida.vbproj">
+      <Project>{6011EDAC-2B23-442E-BBE5-CFECB6772E24}</Project>
+      <Name>AlertasDNPM.DTO.tb_UNME_unidade_medida</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_UPRD_uso_produto\AlertasDNPM.DTO.tb_UPRD_uso_produto.vbproj">
+      <Project>{F8781EDA-CCDF-4346-8DFB-7E3D52A0601A}</Project>
+      <Name>AlertasDNPM.DTO.tb_UPRD_uso_produto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Apoio\Apoio.vbproj">
+      <Project>{58877223-95F2-4F57-AF71-26C255E0BA55}</Project>
+      <Name>Apoio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dnpm+logo.ico" />
+    <Content Include="images\backup.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\config.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\evento.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\evento.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\limpa.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\loading.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\report2.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\rotina.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\search.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\sobre.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\operador.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\processo.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\empresa.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\alerta.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\sair.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="release.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="tmp\images\" />
+    <Folder Include="tmp\report\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

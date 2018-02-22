@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_TUSO_tipo_uso\bin\Release\DTO.tb_TUSO_tipo_uso.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_TUSO_tipo_uso\bin\Release\DTO.tb_TUSO_tipo_uso.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_TUSO_tipo_uso\bin\Release\DTO.tb_TUSO_tipo_uso.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_TUSO_tipo_uso\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_TUSO_tipo_uso\obj\Release\DTO.tb_TUSO_tipo_uso.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_TUSO_tipo_uso\obj\Release\DTO.tb_TUSO_tipo_uso.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_TUSO_tipo_uso\obj\Release\DTO.tb_TUSO_tipo_uso.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_TUSO_tipo_uso\bin\Release\DTO.tb_TUSO_tipo_uso.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_TUSO_tipo_uso\bin\Release\DTO.tb_TUSO_tipo_uso.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_TUSO_tipo_uso\bin\Release\DTO.tb_TUSO_tipo_uso.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_TUSO_tipo_uso\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_TUSO_tipo_uso\obj\Release\DTO.tb_TUSO_tipo_uso.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_TUSO_tipo_uso\obj\Release\DTO.tb_TUSO_tipo_uso.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_TUSO_tipo_uso\obj\Release\DTO.tb_TUSO_tipo_uso.pdb

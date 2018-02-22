@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\bin\Debug\DTO.tb_PNOT_processo_nota.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\bin\Debug\DTO.tb_PNOT_processo_nota.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\bin\Debug\DTO.tb_PNOT_processo_nota.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Debug\DTO.tb_PNOT_processo_nota.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Debug\DTO.tb_PNOT_processo_nota.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Debug\DTO.tb_PNOT_processo_nota.pdb

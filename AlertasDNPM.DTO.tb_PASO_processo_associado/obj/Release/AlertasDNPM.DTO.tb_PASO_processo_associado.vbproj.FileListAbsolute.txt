@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\bin\Release\DTO.tb_PASO_processo_associado.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\bin\Release\DTO.tb_PASO_processo_associado.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\bin\Release\DTO.tb_PASO_processo_associado.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Release\DTO.tb_PASO_processo_associado.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Release\DTO.tb_PASO_processo_associado.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Release\DTO.tb_PASO_processo_associado.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PASO_processo_associado\bin\Release\DTO.tb_PASO_processo_associado.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PASO_processo_associado\bin\Release\DTO.tb_PASO_processo_associado.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PASO_processo_associado\bin\Release\DTO.tb_PASO_processo_associado.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Release\DTO.tb_PASO_processo_associado.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Release\DTO.tb_PASO_processo_associado.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Release\DTO.tb_PASO_processo_associado.pdb

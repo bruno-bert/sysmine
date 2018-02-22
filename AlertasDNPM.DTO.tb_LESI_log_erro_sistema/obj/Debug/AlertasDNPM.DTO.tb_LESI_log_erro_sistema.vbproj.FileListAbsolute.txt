@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\bin\Debug\DTO.tb_LESI_log_erro_sistema.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\bin\Debug\DTO.tb_LESI_log_erro_sistema.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\bin\Debug\DTO.tb_LESI_log_erro_sistema.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\obj\Debug\DTO.tb_LESI_log_erro_sistema.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\obj\Debug\DTO.tb_LESI_log_erro_sistema.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\obj\Debug\DTO.tb_LESI_log_erro_sistema.pdb

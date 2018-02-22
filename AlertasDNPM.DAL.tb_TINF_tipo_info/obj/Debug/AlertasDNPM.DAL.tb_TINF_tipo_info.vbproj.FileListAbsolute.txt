@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\bin\Debug\DAL.tb_TINF_tipo_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\bin\Debug\DAL.tb_TINF_tipo_info.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\bin\Debug\DAL.tb_TINF_tipo_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\bin\Debug\DTO.tb_TINF_tipo_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\bin\Debug\DTO.tb_TINF_tipo_info.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\bin\Debug\DTO.tb_TINF_tipo_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\obj\Debug\DAL.tb_TINF_tipo_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\obj\Debug\DAL.tb_TINF_tipo_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TINF_tipo_info\obj\Debug\DAL.tb_TINF_tipo_info.pdb

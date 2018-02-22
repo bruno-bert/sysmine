@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\bin\Debug\DTO.tb_FASE_fase.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\bin\Debug\DTO.tb_FASE_fase.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\bin\Debug\DTO.tb_FASE_fase.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\obj\Debug\DTO.tb_FASE_fase.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\obj\Debug\DTO.tb_FASE_fase.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\obj\Debug\DTO.tb_FASE_fase.pdb

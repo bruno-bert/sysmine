@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\bin\Release\DTO.tb_PNOT_processo_nota.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\bin\Release\DTO.tb_PNOT_processo_nota.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\bin\Release\DTO.tb_PNOT_processo_nota.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Release\DTO.tb_PNOT_processo_nota.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Release\DTO.tb_PNOT_processo_nota.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Release\DTO.tb_PNOT_processo_nota.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PNOT_processo_nota\bin\Release\DTO.tb_PNOT_processo_nota.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PNOT_processo_nota\bin\Release\DTO.tb_PNOT_processo_nota.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PNOT_processo_nota\bin\Release\DTO.tb_PNOT_processo_nota.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Release\DTO.tb_PNOT_processo_nota.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Release\DTO.tb_PNOT_processo_nota.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PNOT_processo_nota\obj\Release\DTO.tb_PNOT_processo_nota.pdb

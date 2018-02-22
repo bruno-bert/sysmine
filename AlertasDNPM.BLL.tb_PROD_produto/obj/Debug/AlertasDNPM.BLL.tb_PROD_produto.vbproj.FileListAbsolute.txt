@@ -1,0 +1,16 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\BLL.tb_PROD_produto.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\BLL.tb_PROD_produto.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\BLL.tb_PROD_produto.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\DAL.tb_PROD_produto.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\DTO.tb_PROD_produto.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\DTO.tb_PROD_produto.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\DTO.tb_PROD_produto.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\DAL.tb_PROD_produto.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\DAL.tb_PROD_produto.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\obj\Debug\BLL.tb_PROD_produto.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\obj\Debug\BLL.tb_PROD_produto.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PROD_produto\obj\Debug\BLL.tb_PROD_produto.pdb

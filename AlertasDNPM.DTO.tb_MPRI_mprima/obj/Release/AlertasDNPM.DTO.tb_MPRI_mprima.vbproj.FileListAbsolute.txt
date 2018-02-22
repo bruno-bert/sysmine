@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_MPRI_mprima\bin\Release\DTO.tb_MPRI_mprima.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_MPRI_mprima\bin\Release\DTO.tb_MPRI_mprima.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_MPRI_mprima\bin\Release\DTO.tb_MPRI_mprima.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_MPRI_mprima\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_MPRI_mprima\obj\Release\DTO.tb_MPRI_mprima.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_MPRI_mprima\obj\Release\DTO.tb_MPRI_mprima.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_MPRI_mprima\obj\Release\DTO.tb_MPRI_mprima.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_MPRI_mprima\bin\Release\DTO.tb_MPRI_mprima.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_MPRI_mprima\bin\Release\DTO.tb_MPRI_mprima.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_MPRI_mprima\bin\Release\DTO.tb_MPRI_mprima.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_MPRI_mprima\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_MPRI_mprima\obj\Release\DTO.tb_MPRI_mprima.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_MPRI_mprima\obj\Release\DTO.tb_MPRI_mprima.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_MPRI_mprima\obj\Release\DTO.tb_MPRI_mprima.pdb

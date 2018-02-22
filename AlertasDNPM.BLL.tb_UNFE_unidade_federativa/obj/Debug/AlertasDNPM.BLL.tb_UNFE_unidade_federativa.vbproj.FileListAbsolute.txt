@@ -1,0 +1,17 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\BLL.tb_UNFE_unidade_federativa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\BLL.tb_UNFE_unidade_federativa.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\BLL.tb_UNFE_unidade_federativa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\DAL.tb_UNFE_unidade_federativa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\DTO.tb_UNFE_unidade_federativa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\DTO.tb_UNFE_unidade_federativa.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\DTO.tb_UNFE_unidade_federativa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\DAL.tb_UNFE_unidade_federativa.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Debug\DAL.tb_UNFE_unidade_federativa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\obj\Debug\BLL.tb_UNFE_unidade_federativa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\obj\Debug\BLL.tb_UNFE_unidade_federativa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\obj\Debug\BLL.tb_UNFE_unidade_federativa.pdb

@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PCON_processo_condicao\bin\Debug\DTO.tb_PCON_processo_condicao.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PCON_processo_condicao\bin\Debug\DTO.tb_PCON_processo_condicao.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PCON_processo_condicao\bin\Debug\DTO.tb_PCON_processo_condicao.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PCON_processo_condicao\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PCON_processo_condicao\obj\Debug\DTO.tb_PCON_processo_condicao.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PCON_processo_condicao\obj\Debug\DTO.tb_PCON_processo_condicao.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PCON_processo_condicao\obj\Debug\DTO.tb_PCON_processo_condicao.pdb

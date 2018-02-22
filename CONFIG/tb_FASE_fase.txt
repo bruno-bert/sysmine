@@ -1,0 +1,8 @@
+P|dbDNPM|tb_FASE_fase
+T|dbDNPM|tb_FASE_fase
+C|dbDNPM|tb_FASE_fase|FASE_cd_fase|FASE_cd_fase|True
+C|dbDNPM|tb_FASE_fase|FASE_nm_fase|FASE_nm_fase|True
+C|dbDNPM|tb_FASE_fase|AUDT_dt_inclusao|AUDT_dt_inclusao|False
+C|dbDNPM|tb_FASE_fase|AUDT_nm_usuario_inclusao|AUDT_nm_usuario_inclusao|False
+C|dbDNPM|tb_FASE_fase|AUDT_dt_alteracao|AUDT_dt_alteracao|False
+C|dbDNPM|tb_FASE_fase|AUDT_nm_usuario_alteracao|AUDT_nm_usuario_alteracao|False

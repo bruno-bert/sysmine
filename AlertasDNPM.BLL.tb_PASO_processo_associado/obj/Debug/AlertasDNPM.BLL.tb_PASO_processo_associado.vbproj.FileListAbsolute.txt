@@ -1,0 +1,17 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\BLL.tb_PASO_processo_associado.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\BLL.tb_PASO_processo_associado.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\BLL.tb_PASO_processo_associado.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\DAL.tb_PASO_processo_associado.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\DTO.tb_PASO_processo_associado.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\DTO.tb_PASO_processo_associado.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\DTO.tb_PASO_processo_associado.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\DAL.tb_PASO_processo_associado.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\DAL.tb_PASO_processo_associado.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\obj\Debug\BLL.tb_PASO_processo_associado.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\obj\Debug\BLL.tb_PASO_processo_associado.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PASO_processo_associado\obj\Debug\BLL.tb_PASO_processo_associado.pdb

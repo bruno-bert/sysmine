@@ -1,0 +1,22 @@
+P|dbDNPM|tb_ALER_alerta
+T|dbDNPM|tb_ALER_alerta
+C|dbDNPM|tb_ALER_alerta|ALER_nm_alerta|ALER_nm_alerta|True
+C|dbDNPM|tb_ALER_alerta|ALER_ds_alerta|ALER_ds_alerta|True
+C|dbDNPM|tb_ALER_alerta|ALER_fl_muda_fase|ALER_fl_muda_fase|True
+C|dbDNPM|tb_ALER_alerta|ALER_fl_muda_evento|ALER_fl_muda_evento|True
+C|dbDNPM|tb_ALER_alerta|ALER_cd_fase_anterior|ALER_cd_fase_anterior|True
+C|dbDNPM|tb_ALER_alerta|ALER_cd_fase_nova|ALER_cd_fase_nova|True
+C|dbDNPM|tb_ALER_alerta|ALER_fl_qualquer_processo|ALER_fl_qualquer_processo|True
+C|dbDNPM|tb_ALER_alerta|ALER_fl_status|ALER_fl_status|True
+C|dbDNPM|tb_ALER_alerta|ALER_fl_sistema|ALER_fl_sistema|True
+C|dbDNPM|tb_ALER_alerta|AUDT_dt_inclusao|AUDT_dt_inclusao|False
+C|dbDNPM|tb_ALER_alerta|AUDT_nm_usuario_inclusao|AUDT_nm_usuario_inclusao|False
+C|dbDNPM|tb_ALER_alerta|AUDT_dt_alteracao|AUDT_dt_alteracao|False
+C|dbDNPM|tb_ALER_alerta|AUDT_nm_usuario_alteracao|AUDT_nm_usuario_alteracao|False
+S|True|(select case when ALER_fl_status = 'S' then 'Sim' else 'Não' end)|ALER_ds_status|varchar(3)|S
+S|True|(select case when ALER_fl_sistema = 'S' then 'Sim' else 'Não' end)|ALER_ds_sistema|varchar(3)|S
+S|True|(select case when ALER_fl_muda_fase = 'S' then 'Sim' else 'Não' end)|ALER_ds_muda_fase|varchar(3)|S
+S|True|(select case when ALER_fl_muda_evento = 'S' then 'Sim' else 'Não' end)|ALER_ds_muda_evento|varchar(3)|S
+S|True|(select case when ALER_fl_qualquer_processo = 'S' then 'Sim' else 'Não' end)|ALER_ds_qualquer_processo|varchar(3)|S
+S|True|(select FASE_nm_fase from tb_FASE_fase x where a.ALER_cd_fase_anterior = x.FASE_cd_fase)|ALER_nm_fase_anterior|varchar(100)|S
+S|True|(select FASE_nm_fase from tb_FASE_fase x where a.ALER_cd_fase_nova = x.FASE_cd_fase)|ALER_ds_fase_nova|varchar(100)|S

@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\bin\Debug\DAL.tb_BACK_backup.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\bin\Debug\DAL.tb_BACK_backup.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\bin\Debug\DAL.tb_BACK_backup.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\bin\Debug\DTO.tb_BACK_backup.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\bin\Debug\DTO.tb_BACK_backup.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\bin\Debug\DTO.tb_BACK_backup.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\obj\Debug\DAL.tb_BACK_backup.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\obj\Debug\DAL.tb_BACK_backup.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_BACK_backup\obj\Debug\DAL.tb_BACK_backup.pdb

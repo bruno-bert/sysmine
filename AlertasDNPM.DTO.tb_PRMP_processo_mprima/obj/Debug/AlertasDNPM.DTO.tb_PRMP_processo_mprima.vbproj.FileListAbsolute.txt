@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRMP_processo_mprima\bin\Debug\DTO.tb_PRMP_processo_mprima.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRMP_processo_mprima\bin\Debug\DTO.tb_PRMP_processo_mprima.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRMP_processo_mprima\bin\Debug\DTO.tb_PRMP_processo_mprima.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRMP_processo_mprima\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRMP_processo_mprima\obj\Debug\DTO.tb_PRMP_processo_mprima.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRMP_processo_mprima\obj\Debug\DTO.tb_PRMP_processo_mprima.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRMP_processo_mprima\obj\Debug\DTO.tb_PRMP_processo_mprima.pdb

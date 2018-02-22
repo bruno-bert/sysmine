@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\bin\Debug\DTO.tb_ROTI_rotina.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\bin\Debug\DTO.tb_ROTI_rotina.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\bin\Debug\DTO.tb_ROTI_rotina.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\obj\Debug\DTO.tb_ROTI_rotina.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\obj\Debug\DTO.tb_ROTI_rotina.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_ROTI_rotina\obj\Debug\DTO.tb_ROTI_rotina.pdb

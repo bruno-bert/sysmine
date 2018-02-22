@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\bin\Debug\DTO.tb_UPRD_uso_produto.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\bin\Debug\DTO.tb_UPRD_uso_produto.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\bin\Debug\DTO.tb_UPRD_uso_produto.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Debug\DTO.tb_UPRD_uso_produto.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Debug\DTO.tb_UPRD_uso_produto.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Debug\DTO.tb_UPRD_uso_produto.pdb

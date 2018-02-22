@@ -1,0 +1,17 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\BLL.tb_PNOT_processo_nota.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\BLL.tb_PNOT_processo_nota.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\BLL.tb_PNOT_processo_nota.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\DAL.tb_PNOT_processo_nota.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\DTO.tb_PNOT_processo_nota.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\DAL.tb_PNOT_processo_nota.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\DAL.tb_PNOT_processo_nota.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\DTO.tb_PNOT_processo_nota.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\bin\Debug\DTO.tb_PNOT_processo_nota.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\obj\Debug\BLL.tb_PNOT_processo_nota.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\obj\Debug\BLL.tb_PNOT_processo_nota.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_PNOT_processo_nota\obj\Debug\BLL.tb_PNOT_processo_nota.pdb

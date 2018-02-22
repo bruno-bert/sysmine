@@ -1,0 +1,7 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\bin\Release\DTO.tb_LESI_log_erro_sistema.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\bin\Release\DTO.tb_LESI_log_erro_sistema.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\bin\Release\DTO.tb_LESI_log_erro_sistema.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\obj\Release\DTO.tb_LESI_log_erro_sistema.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\obj\Release\DTO.tb_LESI_log_erro_sistema.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\obj\Release\DTO.tb_LESI_log_erro_sistema.pdb

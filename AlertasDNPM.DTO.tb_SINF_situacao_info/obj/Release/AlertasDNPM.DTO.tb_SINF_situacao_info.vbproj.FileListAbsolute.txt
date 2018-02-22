@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\bin\Release\DTO.tb_SINF_situacao_info.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\bin\Release\DTO.tb_SINF_situacao_info.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\bin\Release\DTO.tb_SINF_situacao_info.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Release\DTO.tb_SINF_situacao_info.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Release\DTO.tb_SINF_situacao_info.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Release\DTO.tb_SINF_situacao_info.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SINF_situacao_info\bin\Release\DTO.tb_SINF_situacao_info.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SINF_situacao_info\bin\Release\DTO.tb_SINF_situacao_info.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SINF_situacao_info\bin\Release\DTO.tb_SINF_situacao_info.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Release\DTO.tb_SINF_situacao_info.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Release\DTO.tb_SINF_situacao_info.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Release\DTO.tb_SINF_situacao_info.pdb

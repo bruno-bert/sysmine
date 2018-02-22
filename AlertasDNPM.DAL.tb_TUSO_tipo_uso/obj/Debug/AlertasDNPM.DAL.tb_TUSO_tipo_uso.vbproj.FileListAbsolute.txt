@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\bin\Debug\DAL.tb_TUSO_tipo_uso.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\bin\Debug\DAL.tb_TUSO_tipo_uso.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\bin\Debug\DAL.tb_TUSO_tipo_uso.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\bin\Debug\DTO.tb_TUSO_tipo_uso.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\bin\Debug\DTO.tb_TUSO_tipo_uso.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\bin\Debug\DTO.tb_TUSO_tipo_uso.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\obj\Debug\DAL.tb_TUSO_tipo_uso.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\obj\Debug\DAL.tb_TUSO_tipo_uso.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TUSO_tipo_uso\obj\Debug\DAL.tb_TUSO_tipo_uso.pdb

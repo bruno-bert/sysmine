@@ -1,0 +1,13 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\bin\Debug\DAL.tb_OSSD_objeto_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\bin\Debug\DAL.tb_OSSD_objeto_sd.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\bin\Debug\DAL.tb_OSSD_objeto_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\bin\Debug\DTO.tb_OSSD_objeto_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\bin\Debug\DTO.tb_OSSD_objeto_sd.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\bin\Debug\DTO.tb_OSSD_objeto_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\obj\Debug\DAL.tb_OSSD_objeto_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\obj\Debug\DAL.tb_OSSD_objeto_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_OSSD_objeto_sd\obj\Debug\DAL.tb_OSSD_objeto_sd.pdb

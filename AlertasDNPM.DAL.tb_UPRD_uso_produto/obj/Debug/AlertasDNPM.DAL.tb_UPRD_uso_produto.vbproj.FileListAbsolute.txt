@@ -1,0 +1,13 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\bin\Debug\DAL.tb_UPRD_uso_produto.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\bin\Debug\DAL.tb_UPRD_uso_produto.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\bin\Debug\DAL.tb_UPRD_uso_produto.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\bin\Debug\DTO.tb_UPRD_uso_produto.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\bin\Debug\DTO.tb_UPRD_uso_produto.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\bin\Debug\DTO.tb_UPRD_uso_produto.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\obj\Debug\DAL.tb_UPRD_uso_produto.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\obj\Debug\DAL.tb_UPRD_uso_produto.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_UPRD_uso_produto\obj\Debug\DAL.tb_UPRD_uso_produto.pdb

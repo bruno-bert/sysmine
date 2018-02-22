@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Release\DAL.tb_PGER_parametro_geral.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Release\DAL.tb_PGER_parametro_geral.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Release\DAL.tb_PGER_parametro_geral.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Release\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Release\DTO.tb_PGER_parametro_geral.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Release\Newtonsoft.Json.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Release\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Release\Apoio.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Release\DTO.tb_PGER_parametro_geral.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Release\DTO.tb_PGER_parametro_geral.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\obj\Release\DAL.tb_PGER_parametro_geral.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\obj\Release\DAL.tb_PGER_parametro_geral.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\obj\Release\DAL.tb_PGER_parametro_geral.pdb

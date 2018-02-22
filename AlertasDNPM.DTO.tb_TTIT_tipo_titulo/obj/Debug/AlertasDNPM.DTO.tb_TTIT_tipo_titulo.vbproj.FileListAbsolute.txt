@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TTIT_tipo_titulo\bin\Debug\DTO.tb_TTIT_tipo_titulo.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TTIT_tipo_titulo\bin\Debug\DTO.tb_TTIT_tipo_titulo.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TTIT_tipo_titulo\bin\Debug\DTO.tb_TTIT_tipo_titulo.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TTIT_tipo_titulo\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TTIT_tipo_titulo\obj\Debug\DTO.tb_TTIT_tipo_titulo.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TTIT_tipo_titulo\obj\Debug\DTO.tb_TTIT_tipo_titulo.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TTIT_tipo_titulo\obj\Debug\DTO.tb_TTIT_tipo_titulo.pdb

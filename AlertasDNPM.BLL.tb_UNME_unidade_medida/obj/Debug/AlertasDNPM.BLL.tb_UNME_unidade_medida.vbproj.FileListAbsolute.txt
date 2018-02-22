@@ -1,0 +1,16 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\BLL.tb_UNME_unidade_medida.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\BLL.tb_UNME_unidade_medida.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\BLL.tb_UNME_unidade_medida.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\DAL.tb_UNME_unidade_medida.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\DTO.tb_UNME_unidade_medida.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\DAL.tb_UNME_unidade_medida.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\DAL.tb_UNME_unidade_medida.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\DTO.tb_UNME_unidade_medida.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\bin\Debug\DTO.tb_UNME_unidade_medida.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\obj\Debug\BLL.tb_UNME_unidade_medida.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\obj\Debug\BLL.tb_UNME_unidade_medida.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_UNME_unidade_medida\obj\Debug\BLL.tb_UNME_unidade_medida.pdb

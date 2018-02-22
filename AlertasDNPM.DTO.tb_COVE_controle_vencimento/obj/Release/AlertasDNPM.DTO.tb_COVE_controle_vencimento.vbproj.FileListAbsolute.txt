@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_COVE_controle_vencimento\bin\Release\DTO.tb_COVE_controle_vencimento.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_COVE_controle_vencimento\bin\Release\DTO.tb_COVE_controle_vencimento.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_COVE_controle_vencimento\bin\Release\DTO.tb_COVE_controle_vencimento.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_COVE_controle_vencimento\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_COVE_controle_vencimento\obj\Release\DTO.tb_COVE_controle_vencimento.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_COVE_controle_vencimento\obj\Release\DTO.tb_COVE_controle_vencimento.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_COVE_controle_vencimento\obj\Release\DTO.tb_COVE_controle_vencimento.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_COVE_controle_vencimento\bin\Release\DTO.tb_COVE_controle_vencimento.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_COVE_controle_vencimento\bin\Release\DTO.tb_COVE_controle_vencimento.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_COVE_controle_vencimento\bin\Release\DTO.tb_COVE_controle_vencimento.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_COVE_controle_vencimento\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_COVE_controle_vencimento\obj\Release\DTO.tb_COVE_controle_vencimento.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_COVE_controle_vencimento\obj\Release\DTO.tb_COVE_controle_vencimento.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_COVE_controle_vencimento\obj\Release\DTO.tb_COVE_controle_vencimento.pdb

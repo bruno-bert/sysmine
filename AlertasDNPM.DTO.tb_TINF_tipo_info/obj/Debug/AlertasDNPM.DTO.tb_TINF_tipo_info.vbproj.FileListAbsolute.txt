@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TINF_tipo_info\bin\Debug\DTO.tb_TINF_tipo_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TINF_tipo_info\bin\Debug\DTO.tb_TINF_tipo_info.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TINF_tipo_info\bin\Debug\DTO.tb_TINF_tipo_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TINF_tipo_info\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TINF_tipo_info\obj\Debug\DTO.tb_TINF_tipo_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TINF_tipo_info\obj\Debug\DTO.tb_TINF_tipo_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_TINF_tipo_info\obj\Debug\DTO.tb_TINF_tipo_info.pdb

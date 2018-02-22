@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PMUN_processo_municipio\bin\Release\DTO.tb_PMUN_processo_municipio.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PMUN_processo_municipio\bin\Release\DTO.tb_PMUN_processo_municipio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PMUN_processo_municipio\bin\Release\DTO.tb_PMUN_processo_municipio.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PMUN_processo_municipio\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PMUN_processo_municipio\obj\Release\DTO.tb_PMUN_processo_municipio.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PMUN_processo_municipio\obj\Release\DTO.tb_PMUN_processo_municipio.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PMUN_processo_municipio\obj\Release\DTO.tb_PMUN_processo_municipio.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PMUN_processo_municipio\bin\Release\DTO.tb_PMUN_processo_municipio.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PMUN_processo_municipio\bin\Release\DTO.tb_PMUN_processo_municipio.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PMUN_processo_municipio\bin\Release\DTO.tb_PMUN_processo_municipio.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PMUN_processo_municipio\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PMUN_processo_municipio\obj\Release\DTO.tb_PMUN_processo_municipio.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PMUN_processo_municipio\obj\Release\DTO.tb_PMUN_processo_municipio.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PMUN_processo_municipio\obj\Release\DTO.tb_PMUN_processo_municipio.pdb

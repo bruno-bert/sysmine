@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OSSD_objeto_sd\bin\Debug\DTO.tb_OSSD_objeto_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OSSD_objeto_sd\bin\Debug\DTO.tb_OSSD_objeto_sd.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OSSD_objeto_sd\bin\Debug\DTO.tb_OSSD_objeto_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OSSD_objeto_sd\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OSSD_objeto_sd\obj\Debug\DTO.tb_OSSD_objeto_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OSSD_objeto_sd\obj\Debug\DTO.tb_OSSD_objeto_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OSSD_objeto_sd\obj\Debug\DTO.tb_OSSD_objeto_sd.pdb

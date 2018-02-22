@@ -1,0 +1,7 @@
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_BACK_backup\bin\Release\DTO.tb_BACK_backup.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_BACK_backup\bin\Release\DTO.tb_BACK_backup.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_BACK_backup\bin\Release\DTO.tb_BACK_backup.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_BACK_backup\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_BACK_backup\obj\Release\DTO.tb_BACK_backup.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_BACK_backup\obj\Release\DTO.tb_BACK_backup.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_BACK_backup\obj\Release\DTO.tb_BACK_backup.pdb

@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\bin\Release\DTO.tb_PORG_processo_orgao.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\bin\Release\DTO.tb_PORG_processo_orgao.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\bin\Release\DTO.tb_PORG_processo_orgao.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Release\DTO.tb_PORG_processo_orgao.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Release\DTO.tb_PORG_processo_orgao.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Release\DTO.tb_PORG_processo_orgao.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PORG_processo_orgao\bin\Release\DTO.tb_PORG_processo_orgao.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PORG_processo_orgao\bin\Release\DTO.tb_PORG_processo_orgao.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PORG_processo_orgao\bin\Release\DTO.tb_PORG_processo_orgao.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Release\DTO.tb_PORG_processo_orgao.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Release\DTO.tb_PORG_processo_orgao.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Release\DTO.tb_PORG_processo_orgao.pdb

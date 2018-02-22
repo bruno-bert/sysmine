@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Debug\DAL.tb_PGER_parametro_geral.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Debug\DAL.tb_PGER_parametro_geral.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Debug\DAL.tb_PGER_parametro_geral.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Debug\DTO.tb_PGER_parametro_geral.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Debug\DTO.tb_PGER_parametro_geral.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\bin\Debug\DTO.tb_PGER_parametro_geral.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\obj\Debug\DAL.tb_PGER_parametro_geral.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\obj\Debug\DAL.tb_PGER_parametro_geral.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PGER_parametro_geral\obj\Debug\DAL.tb_PGER_parametro_geral.pdb

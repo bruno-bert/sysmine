@@ -1,0 +1,6 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_ALER_alerta\bin\Release\DTO.tb_ALER_alerta.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_ALER_alerta\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_ALER_alerta\obj\Release\DTO.tb_ALER_alerta.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_ALER_alerta\bin\Release\DTO.tb_ALER_alerta.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_ALER_alerta\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_ALER_alerta\obj\Release\DTO.tb_ALER_alerta.dll

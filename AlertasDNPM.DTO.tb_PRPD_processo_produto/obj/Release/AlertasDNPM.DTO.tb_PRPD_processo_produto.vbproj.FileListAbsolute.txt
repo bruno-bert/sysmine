@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRPD_processo_produto\bin\Release\DTO.tb_PRPD_processo_produto.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRPD_processo_produto\bin\Release\DTO.tb_PRPD_processo_produto.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRPD_processo_produto\bin\Release\DTO.tb_PRPD_processo_produto.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRPD_processo_produto\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRPD_processo_produto\obj\Release\DTO.tb_PRPD_processo_produto.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRPD_processo_produto\obj\Release\DTO.tb_PRPD_processo_produto.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRPD_processo_produto\obj\Release\DTO.tb_PRPD_processo_produto.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PRPD_processo_produto\bin\Release\DTO.tb_PRPD_processo_produto.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PRPD_processo_produto\bin\Release\DTO.tb_PRPD_processo_produto.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PRPD_processo_produto\bin\Release\DTO.tb_PRPD_processo_produto.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PRPD_processo_produto\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PRPD_processo_produto\obj\Release\DTO.tb_PRPD_processo_produto.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PRPD_processo_produto\obj\Release\DTO.tb_PRPD_processo_produto.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PRPD_processo_produto\obj\Release\DTO.tb_PRPD_processo_produto.pdb

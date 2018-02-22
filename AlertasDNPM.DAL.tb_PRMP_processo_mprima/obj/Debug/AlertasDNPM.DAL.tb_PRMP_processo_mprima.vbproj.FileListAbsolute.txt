@@ -1,0 +1,13 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\bin\Debug\DAL.tb_PRMP_processo_mprima.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\bin\Debug\DAL.tb_PRMP_processo_mprima.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\bin\Debug\DAL.tb_PRMP_processo_mprima.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\bin\Debug\DTO.tb_PRMP_processo_mprima.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\bin\Debug\DTO.tb_PRMP_processo_mprima.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\bin\Debug\DTO.tb_PRMP_processo_mprima.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\obj\Debug\DAL.tb_PRMP_processo_mprima.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\obj\Debug\DAL.tb_PRMP_processo_mprima.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRMP_processo_mprima\obj\Debug\DAL.tb_PRMP_processo_mprima.pdb

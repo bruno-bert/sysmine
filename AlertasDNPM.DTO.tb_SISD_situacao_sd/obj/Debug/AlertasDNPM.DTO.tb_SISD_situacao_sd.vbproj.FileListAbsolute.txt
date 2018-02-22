@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\bin\Debug\DTO.tb_SISD_situacao_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\bin\Debug\DTO.tb_SISD_situacao_sd.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\bin\Debug\DTO.tb_SISD_situacao_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Debug\DTO.tb_SISD_situacao_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Debug\DTO.tb_SISD_situacao_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Debug\DTO.tb_SISD_situacao_sd.pdb

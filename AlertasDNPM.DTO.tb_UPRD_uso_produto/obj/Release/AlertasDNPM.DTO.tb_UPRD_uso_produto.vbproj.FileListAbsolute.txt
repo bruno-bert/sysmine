@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\bin\Release\DTO.tb_UPRD_uso_produto.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\bin\Release\DTO.tb_UPRD_uso_produto.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\bin\Release\DTO.tb_UPRD_uso_produto.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Release\DTO.tb_UPRD_uso_produto.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Release\DTO.tb_UPRD_uso_produto.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Release\DTO.tb_UPRD_uso_produto.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UPRD_uso_produto\bin\Release\DTO.tb_UPRD_uso_produto.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UPRD_uso_produto\bin\Release\DTO.tb_UPRD_uso_produto.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UPRD_uso_produto\bin\Release\DTO.tb_UPRD_uso_produto.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Release\DTO.tb_UPRD_uso_produto.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Release\DTO.tb_UPRD_uso_produto.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UPRD_uso_produto\obj\Release\DTO.tb_UPRD_uso_produto.pdb

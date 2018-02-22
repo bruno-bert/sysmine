@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\bin\Debug\DAL.tb_EMPR_empresa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\bin\Debug\DAL.tb_EMPR_empresa.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\bin\Debug\DAL.tb_EMPR_empresa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\bin\Debug\DTO.tb_EMPR_empresa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\bin\Debug\DTO.tb_EMPR_empresa.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\bin\Debug\DTO.tb_EMPR_empresa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\obj\Debug\DAL.tb_EMPR_empresa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\obj\Debug\DAL.tb_EMPR_empresa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_EMPR_empresa\obj\Debug\DAL.tb_EMPR_empresa.pdb

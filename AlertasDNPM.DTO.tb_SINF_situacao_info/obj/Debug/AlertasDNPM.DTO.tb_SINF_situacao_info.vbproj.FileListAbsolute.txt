@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\bin\Debug\DTO.tb_SINF_situacao_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\bin\Debug\DTO.tb_SINF_situacao_info.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\bin\Debug\DTO.tb_SINF_situacao_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Debug\DTO.tb_SINF_situacao_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Debug\DTO.tb_SINF_situacao_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SINF_situacao_info\obj\Debug\DTO.tb_SINF_situacao_info.pdb

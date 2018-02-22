@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UNFE_unidade_federativa\bin\Debug\DTO.tb_UNFE_unidade_federativa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UNFE_unidade_federativa\bin\Debug\DTO.tb_UNFE_unidade_federativa.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UNFE_unidade_federativa\bin\Debug\DTO.tb_UNFE_unidade_federativa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UNFE_unidade_federativa\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UNFE_unidade_federativa\obj\Debug\DTO.tb_UNFE_unidade_federativa.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UNFE_unidade_federativa\obj\Debug\DTO.tb_UNFE_unidade_federativa.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_UNFE_unidade_federativa\obj\Debug\DTO.tb_UNFE_unidade_federativa.pdb

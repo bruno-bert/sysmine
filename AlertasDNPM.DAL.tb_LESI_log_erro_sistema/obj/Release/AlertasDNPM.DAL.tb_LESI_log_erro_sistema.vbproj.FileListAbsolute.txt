@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Release\DAL.tb_LESI_log_erro_sistema.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Release\DAL.tb_LESI_log_erro_sistema.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Release\DAL.tb_LESI_log_erro_sistema.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Release\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Release\DTO.tb_LESI_log_erro_sistema.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Release\Newtonsoft.Json.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Release\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Release\Apoio.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Release\DTO.tb_LESI_log_erro_sistema.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Release\DTO.tb_LESI_log_erro_sistema.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\obj\Release\DAL.tb_LESI_log_erro_sistema.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\obj\Release\DAL.tb_LESI_log_erro_sistema.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\obj\Release\DAL.tb_LESI_log_erro_sistema.pdb

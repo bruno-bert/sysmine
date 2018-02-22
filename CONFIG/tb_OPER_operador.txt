@@ -1,0 +1,13 @@
+P|dbDNPM|tb_OPER_operador
+T|dbDNPM|tb_OPER_operador
+C|dbDNPM|tb_OPER_operador|OPER_cd_operador|OPER_cd_operador|True
+C|dbDNPM|tb_OPER_operador|OPER_nm_operador|OPER_nm_operador|True
+C|dbDNPM|tb_OPER_operador|OPER_ds_email|OPER_ds_email|True
+C|dbDNPM|tb_OPER_operador|OPER_fl_alerta|OPER_fl_alerta|False
+C|dbDNPM|tb_OPER_operador|OPER_fl_alerta_nativo|OPER_fl_alerta_nativo|False
+C|dbDNPM|tb_OPER_operador|AUDT_dt_inclusao|AUDT_dt_inclusao|False
+C|dbDNPM|tb_OPER_operador|AUDT_nm_usuario_inclusao|AUDT_nm_usuario_inclusao|False
+C|dbDNPM|tb_OPER_operador|AUDT_dt_alteracao|AUDT_dt_alteracao|False
+C|dbDNPM|tb_OPER_operador|AUDT_nm_usuario_alteracao|AUDT_nm_usuario_alteracao|False
+S|True|(select case when OPER_fl_alerta = 'S' then 'Sim' else 'Não' end)|OPER_ds_alerta|varchar(3)|S
+S|False|(select case when OPER_fl_alerta_nativo = 'S' then 'Sim' else 'Não' end)|OPER_ds_alerta_nativo|varchar(3)|S

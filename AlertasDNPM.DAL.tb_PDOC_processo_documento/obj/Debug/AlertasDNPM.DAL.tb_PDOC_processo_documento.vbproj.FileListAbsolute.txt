@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\bin\Debug\DAL.tb_PDOC_processo_documento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\bin\Debug\DAL.tb_PDOC_processo_documento.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\bin\Debug\DAL.tb_PDOC_processo_documento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\bin\Debug\DTO.tb_PDOC_processo_documento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\bin\Debug\DTO.tb_PDOC_processo_documento.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\bin\Debug\DTO.tb_PDOC_processo_documento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\obj\Debug\DAL.tb_PDOC_processo_documento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\obj\Debug\DAL.tb_PDOC_processo_documento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PDOC_processo_documento\obj\Debug\DAL.tb_PDOC_processo_documento.pdb

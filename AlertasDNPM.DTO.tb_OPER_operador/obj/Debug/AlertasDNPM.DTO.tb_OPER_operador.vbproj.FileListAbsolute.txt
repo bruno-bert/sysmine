@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\bin\Debug\DTO.tb_OPER_operador.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\bin\Debug\DTO.tb_OPER_operador.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\bin\Debug\DTO.tb_OPER_operador.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\obj\Debug\DTO.tb_OPER_operador.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\obj\Debug\DTO.tb_OPER_operador.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\obj\Debug\DTO.tb_OPER_operador.pdb

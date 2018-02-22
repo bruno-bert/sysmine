@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Release\DAL.tb_PROC_processo.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Release\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Release\DTO.tb_PROC_processo.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Release\Newtonsoft.Json.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Release\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\obj\Release\DAL.tb_PROC_processo.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DAL.tb_PROC_processo\bin\Release\DAL.tb_PROC_processo.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DAL.tb_PROC_processo\bin\Release\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DAL.tb_PROC_processo\bin\Release\DTO.tb_PROC_processo.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DAL.tb_PROC_processo\bin\Release\Newtonsoft.Json.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DAL.tb_PROC_processo\bin\Release\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DAL.tb_PROC_processo\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DAL.tb_PROC_processo\obj\Release\DAL.tb_PROC_processo.dll

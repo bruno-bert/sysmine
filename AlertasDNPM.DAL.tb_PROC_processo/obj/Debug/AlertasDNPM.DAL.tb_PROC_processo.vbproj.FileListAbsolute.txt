@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Debug\DAL.tb_PROC_processo.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Debug\DAL.tb_PROC_processo.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Debug\DAL.tb_PROC_processo.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Debug\DTO.tb_PROC_processo.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Debug\DTO.tb_PROC_processo.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\bin\Debug\DTO.tb_PROC_processo.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\obj\Debug\DAL.tb_PROC_processo.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\obj\Debug\DAL.tb_PROC_processo.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PROC_processo\obj\Debug\DAL.tb_PROC_processo.pdb

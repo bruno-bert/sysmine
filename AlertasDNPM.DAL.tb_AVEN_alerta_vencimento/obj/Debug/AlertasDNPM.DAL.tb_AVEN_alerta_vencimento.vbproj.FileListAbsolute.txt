@@ -1,0 +1,13 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\bin\Debug\DAL.tb_AVEN_alerta_vencimento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\bin\Debug\DAL.tb_AVEN_alerta_vencimento.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\bin\Debug\DAL.tb_AVEN_alerta_vencimento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\bin\Debug\DTO.tb_AVEN_alerta_vencimento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\bin\Debug\DTO.tb_AVEN_alerta_vencimento.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\bin\Debug\DTO.tb_AVEN_alerta_vencimento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\obj\Debug\DAL.tb_AVEN_alerta_vencimento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\obj\Debug\DAL.tb_AVEN_alerta_vencimento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_AVEN_alerta_vencimento\obj\Debug\DAL.tb_AVEN_alerta_vencimento.pdb

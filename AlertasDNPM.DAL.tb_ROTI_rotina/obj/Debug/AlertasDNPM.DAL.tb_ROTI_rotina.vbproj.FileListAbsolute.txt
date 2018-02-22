@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\bin\Debug\DAL.tb_ROTI_rotina.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\bin\Debug\DAL.tb_ROTI_rotina.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\bin\Debug\DAL.tb_ROTI_rotina.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\bin\Debug\DTO.tb_ROTI_rotina.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\bin\Debug\DTO.tb_ROTI_rotina.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\bin\Debug\DTO.tb_ROTI_rotina.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\obj\Debug\DAL.tb_ROTI_rotina.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\obj\Debug\DAL.tb_ROTI_rotina.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_ROTI_rotina\obj\Debug\DAL.tb_ROTI_rotina.pdb

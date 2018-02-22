@@ -1,0 +1,27 @@
+Últimas Alterações:
+
+13/02/2013
+Módulo Administrativo:
+Melhorias:
+- No cadastro de processos, modificação na tela para aumento do grid de processos
+- No cadastro de processos, inclusão de de função para adicionar/editar ou excluir 
+  histórico de eventos
+- Incluída função de realização de Backups da base de dados
+- Inclusão de campo de prioridade no cadastro de processos minerários
+- Inclusão de função para visualização do processo minerário no mapa
+- No relatorio individual do processo, inclusão do mapa do local do processo
+- Inclusão de novo relatório, contendo listagem de processos minerários
+- No relatório de vencimento de documentos, melhoria nos filtros, incluídos filtros de
+  fase e titular, podendo selecionar um ou mais.
+
+Correções:
+- No relatório em forma de gráfico, não estava exibindo algumas informações em alguns paretos
+
+
+Serviço de Alertas:
+Melhorias:
+- Inclusão de rotina de backup da base de dados diariamente, direto pelo sistema
+- No email de processos individual, inclusão da informação TITULAR tanto no assunto 
+como no corpo do email.
+
+

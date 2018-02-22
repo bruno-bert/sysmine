@@ -1,0 +1,16 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\BLL.tb_EMPR_empresa.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\DAL.tb_EMPR_empresa.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\DTO.tb_EMPR_empresa.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\Newtonsoft.Json.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_EMPR_empresa\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_EMPR_empresa\obj\Release\BLL.tb_EMPR_empresa.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\BLL.tb_EMPR_empresa.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\DAL.tb_EMPR_empresa.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\DTO.tb_EMPR_empresa.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\Newtonsoft.Json.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.BLL.tb_EMPR_empresa\bin\Release\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.BLL.tb_EMPR_empresa\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.BLL.tb_EMPR_empresa\obj\Release\BLL.tb_EMPR_empresa.dll

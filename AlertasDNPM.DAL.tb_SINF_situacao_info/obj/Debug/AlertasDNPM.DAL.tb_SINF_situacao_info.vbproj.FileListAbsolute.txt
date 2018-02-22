@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\bin\Debug\DAL.tb_SINF_situacao_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\bin\Debug\DAL.tb_SINF_situacao_info.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\bin\Debug\DAL.tb_SINF_situacao_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\bin\Debug\DTO.tb_SINF_situacao_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\bin\Debug\DTO.tb_SINF_situacao_info.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\bin\Debug\DTO.tb_SINF_situacao_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\obj\Debug\DAL.tb_SINF_situacao_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\obj\Debug\DAL.tb_SINF_situacao_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SINF_situacao_info\obj\Debug\DAL.tb_SINF_situacao_info.pdb

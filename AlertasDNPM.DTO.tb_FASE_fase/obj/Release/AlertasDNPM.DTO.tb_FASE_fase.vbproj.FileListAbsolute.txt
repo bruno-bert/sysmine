@@ -1,0 +1,7 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\bin\Release\DTO.tb_FASE_fase.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\bin\Release\DTO.tb_FASE_fase.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\bin\Release\DTO.tb_FASE_fase.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\obj\Release\DTO.tb_FASE_fase.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\obj\Release\DTO.tb_FASE_fase.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_FASE_fase\obj\Release\DTO.tb_FASE_fase.pdb

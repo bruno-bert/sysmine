@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PREV_processo_evento\bin\Debug\DTO.tb_PREV_processo_evento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PREV_processo_evento\bin\Debug\DTO.tb_PREV_processo_evento.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PREV_processo_evento\bin\Debug\DTO.tb_PREV_processo_evento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PREV_processo_evento\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PREV_processo_evento\obj\Debug\DTO.tb_PREV_processo_evento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PREV_processo_evento\obj\Debug\DTO.tb_PREV_processo_evento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PREV_processo_evento\obj\Debug\DTO.tb_PREV_processo_evento.pdb

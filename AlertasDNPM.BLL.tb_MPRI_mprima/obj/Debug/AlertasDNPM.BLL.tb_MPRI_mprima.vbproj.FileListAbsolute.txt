@@ -1,0 +1,16 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\BLL.tb_MPRI_mprima.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\BLL.tb_MPRI_mprima.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\BLL.tb_MPRI_mprima.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\DAL.tb_MPRI_mprima.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\DTO.tb_MPRI_mprima.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\DAL.tb_MPRI_mprima.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\DAL.tb_MPRI_mprima.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\DTO.tb_MPRI_mprima.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\bin\Debug\DTO.tb_MPRI_mprima.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\obj\Debug\BLL.tb_MPRI_mprima.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\obj\Debug\BLL.tb_MPRI_mprima.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_MPRI_mprima\obj\Debug\BLL.tb_MPRI_mprima.pdb

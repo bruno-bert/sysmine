@@ -1,0 +1,10 @@
+P|dbDNPM|tb_EMPR_empresa
+T|dbDNPM|tb_EMPR_empresa
+C|dbDNPM|tb_EMPR_empresa|EMPR_nm_empresa|EMPR_nm_empresa|True
+C|dbDNPM|tb_EMPR_empresa|EMPR_ds_empresa|EMPR_ds_empresa|True
+C|dbDNPM|tb_EMPR_empresa|EMPR_fl_status|EMPR_fl_status|True
+C|dbDNPM|tb_EMPR_empresa|AUDT_dt_inclusao|AUDT_dt_inclusao|False
+C|dbDNPM|tb_EMPR_empresa|AUDT_nm_usuario_inclusao|AUDT_nm_usuario_inclusao|False
+C|dbDNPM|tb_EMPR_empresa|AUDT_dt_alteracao|AUDT_dt_alteracao|False
+C|dbDNPM|tb_EMPR_empresa|AUDT_nm_usuario_alteracao|AUDT_nm_usuario_alteracao|False
+S|True|(select case when EMPR_fl_status = 'A' then 'Ativo' else 'Inativo' end)|EMPR_ds_status|varchar(100)|S

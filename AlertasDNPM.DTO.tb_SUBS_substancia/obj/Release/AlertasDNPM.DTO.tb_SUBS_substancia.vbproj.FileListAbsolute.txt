@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\bin\Release\DTO.tb_SUBS_substancia.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\bin\Release\DTO.tb_SUBS_substancia.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\bin\Release\DTO.tb_SUBS_substancia.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Release\DTO.tb_SUBS_substancia.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Release\DTO.tb_SUBS_substancia.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Release\DTO.tb_SUBS_substancia.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SUBS_substancia\bin\Release\DTO.tb_SUBS_substancia.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SUBS_substancia\bin\Release\DTO.tb_SUBS_substancia.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SUBS_substancia\bin\Release\DTO.tb_SUBS_substancia.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Release\DTO.tb_SUBS_substancia.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Release\DTO.tb_SUBS_substancia.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Release\DTO.tb_SUBS_substancia.pdb

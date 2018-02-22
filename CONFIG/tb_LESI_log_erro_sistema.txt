@@ -1,0 +1,9 @@
+P|dbDNPM|tb_LESI_log_erro_sistema
+T|dbDNPM|tb_LESI_log_erro_sistema
+C|dbDNPM|tb_LESI_log_erro_sistema|LESI_cd_ocorrencia|LESI_cd_ocorrencia|True
+C|dbDNPM|tb_LESI_log_erro_sistema|LESI_nm_source|LESI_nm_source|True
+C|dbDNPM|tb_LESI_log_erro_sistema|LESI_ds_exception|LESI_ds_exception|False
+C|dbDNPM|tb_LESI_log_erro_sistema|LESI_ds_inexception|LESI_ds_inexception|False
+C|dbDNPM|tb_LESI_log_erro_sistema|LESI_dt_ocorrencia|LESI_dt_ocorrencia|True
+C|dbDNPM|tb_LESI_log_erro_sistema|AUDT_dt_inclusao|AUDT_dt_inclusao|False
+C|dbDNPM|tb_LESI_log_erro_sistema|AUDT_nm_usuario_inclusao|AUDT_nm_usuario_inclusao|False

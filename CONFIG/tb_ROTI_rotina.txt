@@ -1,0 +1,13 @@
+P|dbDNPM|tb_ROTI_rotina
+T|dbDNPM|tb_ROTI_rotina
+C|dbDNPM|tb_ROTI_rotina|ROTI_nm_rotina|ROTI_nm_rotina|True
+C|dbDNPM|tb_ROTI_rotina|ROTI_ds_rotina|ROTI_ds_rotina|True
+C|dbDNPM|tb_ROTI_rotina|ROTI_dt_ultima_execucao|ROTI_dt_ultima_execucao|True
+C|dbDNPM|tb_ROTI_rotina|ROTI_dt_ultima_tentativa_execucao|ROTI_dt_ultima_tentativa_execucao|True
+C|dbDNPM|tb_ROTI_rotina|ROTI_fl_status_execucao|ROTI_fl_status_execucao|True
+C|dbDNPM|tb_ROTI_rotina|ROTI_ds_mensagem|ROTI_ds_mensagem|False
+C|dbDNPM|tb_ROTI_rotina|ROTI_vl_tempo_medio|ROTI_vl_tempo_medio|False
+C|dbDNPM|tb_ROTI_rotina|AUDT_dt_inclusao|AUDT_dt_inclusao|False
+C|dbDNPM|tb_ROTI_rotina|AUDT_nm_usuario_inclusao|AUDT_nm_usuario_inclusao|False
+C|dbDNPM|tb_ROTI_rotina|AUDT_dt_alteracao|AUDT_dt_alteracao|False
+C|dbDNPM|tb_ROTI_rotina|AUDT_nm_usuario_alteracao|AUDT_nm_usuario_alteracao|False

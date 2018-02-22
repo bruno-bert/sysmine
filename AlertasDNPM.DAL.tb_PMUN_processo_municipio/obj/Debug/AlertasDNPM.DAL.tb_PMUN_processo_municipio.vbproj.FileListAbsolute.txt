@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\bin\Debug\DAL.tb_PMUN_processo_municipio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\bin\Debug\DAL.tb_PMUN_processo_municipio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\bin\Debug\DAL.tb_PMUN_processo_municipio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\bin\Debug\DTO.tb_PMUN_processo_municipio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\bin\Debug\DTO.tb_PMUN_processo_municipio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\bin\Debug\DTO.tb_PMUN_processo_municipio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\obj\Debug\DAL.tb_PMUN_processo_municipio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\obj\Debug\DAL.tb_PMUN_processo_municipio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PMUN_processo_municipio\obj\Debug\DAL.tb_PMUN_processo_municipio.pdb

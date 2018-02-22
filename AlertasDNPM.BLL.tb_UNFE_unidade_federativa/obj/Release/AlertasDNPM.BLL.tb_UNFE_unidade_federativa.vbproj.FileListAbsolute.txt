@@ -1,0 +1,17 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\BLL.tb_UNFE_unidade_federativa.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\BLL.tb_UNFE_unidade_federativa.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\BLL.tb_UNFE_unidade_federativa.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\DAL.tb_UNFE_unidade_federativa.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\DTO.tb_UNFE_unidade_federativa.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\Newtonsoft.Json.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\Apoio.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\DTO.tb_UNFE_unidade_federativa.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\DTO.tb_UNFE_unidade_federativa.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\DAL.tb_UNFE_unidade_federativa.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\bin\Release\DAL.tb_UNFE_unidade_federativa.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\obj\Release\BLL.tb_UNFE_unidade_federativa.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\obj\Release\BLL.tb_UNFE_unidade_federativa.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\obj\Release\BLL.tb_UNFE_unidade_federativa.pdb

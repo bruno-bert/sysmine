@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\bin\Debug\DTO.tb_PASO_processo_associado.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\bin\Debug\DTO.tb_PASO_processo_associado.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\bin\Debug\DTO.tb_PASO_processo_associado.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Debug\DTO.tb_PASO_processo_associado.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Debug\DTO.tb_PASO_processo_associado.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PASO_processo_associado\obj\Debug\DTO.tb_PASO_processo_associado.pdb

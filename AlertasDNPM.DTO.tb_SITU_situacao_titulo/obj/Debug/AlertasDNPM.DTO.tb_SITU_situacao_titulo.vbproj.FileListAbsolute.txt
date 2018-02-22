@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SITU_situacao_titulo\bin\Debug\DTO.tb_SITU_situacao_titulo.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SITU_situacao_titulo\bin\Debug\DTO.tb_SITU_situacao_titulo.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SITU_situacao_titulo\bin\Debug\DTO.tb_SITU_situacao_titulo.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SITU_situacao_titulo\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SITU_situacao_titulo\obj\Debug\DTO.tb_SITU_situacao_titulo.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SITU_situacao_titulo\obj\Debug\DTO.tb_SITU_situacao_titulo.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SITU_situacao_titulo\obj\Debug\DTO.tb_SITU_situacao_titulo.pdb

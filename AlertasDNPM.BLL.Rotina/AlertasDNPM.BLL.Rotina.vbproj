@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5998EC4B-3B26-4941-BD76-2F739622EEFF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>BLL</RootNamespace>
+    <AssemblyName>BLL.Rotina</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack, Version=1.4.0.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\AlertasDNPM.Administrativo\refs\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip.Reduced, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\AlertasDNPM.Administrativo\refs\Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="Rotina.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_ALER_alerta\AlertasDNPM.BLL.tb_ALER_alerta.vbproj">
+      <Project>{10769F44-2430-41D4-A950-A771F4499ACE}</Project>
+      <Name>AlertasDNPM.BLL.tb_ALER_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_AVEN_alerta_vencimento\AlertasDNPM.BLL.tb_AVEN_alerta_vencimento.vbproj">
+      <Project>{C6883ECF-651E-47F1-B5FD-46676A85FC9B}</Project>
+      <Name>AlertasDNPM.BLL.tb_AVEN_alerta_vencimento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_BACK_backup\AlertasDNPM.BLL.tb_BACK_backup.vbproj">
+      <Project>{65F31043-9775-4989-AE39-9933E2E26E94}</Project>
+      <Name>AlertasDNPM.BLL.tb_BACK_backup</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_EMPR_empresa\AlertasDNPM.BLL.tb_EMPR_empresa.vbproj">
+      <Project>{9711744F-A832-42B9-B317-AED5DC3735C0}</Project>
+      <Name>AlertasDNPM.BLL.tb_EMPR_empresa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_FASE_fase\AlertasDNPM.BLL.tb_FASE_fase.vbproj">
+      <Project>{9D47B98E-BB8E-4643-B2D7-07D150F63D29}</Project>
+      <Name>AlertasDNPM.BLL.tb_FASE_fase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_HSAL_historico_alerta\AlertasDNPM.BLL.tb_HSAL_historico_alerta.vbproj">
+      <Project>{87AD19EE-18BB-43B2-A94C-A5AE50FFFB78}</Project>
+      <Name>AlertasDNPM.BLL.tb_HSAL_historico_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_LESI_log_erro_sistema\AlertasDNPM.BLL.tb_LESI_log_erro_sistema.vbproj">
+      <Project>{22C30BFC-5643-44C7-B982-89D685C1868A}</Project>
+      <Name>AlertasDNPM.BLL.tb_LESI_log_erro_sistema</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_OPER_operador\AlertasDNPM.BLL.tb_OPER_operador.vbproj">
+      <Project>{3335525C-7C14-40EA-9FCB-EB611CDCE8E8}</Project>
+      <Name>AlertasDNPM.BLL.tb_OPER_operador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PAUX_processo_auxiliar\AlertasDNPM.BLL.tb_PAUX_processo_auxiliar.vbproj">
+      <Project>{94E32C21-098F-4677-9FA2-13EAE13B3B90}</Project>
+      <Name>AlertasDNPM.BLL.tb_PAUX_processo_auxiliar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PGER_parametro_geral\AlertasDNPM.BLL.tb_PGER_parametro_geral.vbproj">
+      <Project>{9F9E4293-4164-4E95-B9A2-D8A2D80BB78A}</Project>
+      <Name>AlertasDNPM.BLL.tb_PGER_parametro_geral</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PRAL_processo_alerta\AlertasDNPM.BLL.tb_PRAL_processo_alerta.vbproj">
+      <Project>{2070FA04-691E-492D-BED2-53373AD35EFE}</Project>
+      <Name>AlertasDNPM.BLL.tb_PRAL_processo_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PREV_processo_evento\AlertasDNPM.BLL.tb_PREV_processo_evento.vbproj">
+      <Project>{FAAF62A5-96F7-4D56-93A1-D774F14FBD9C}</Project>
+      <Name>AlertasDNPM.BLL.tb_PREV_processo_evento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PROC_processo\AlertasDNPM.BLL.tb_PROC_processo.vbproj">
+      <Project>{4DF3993C-992B-403F-AA65-AAEE8552A0C1}</Project>
+      <Name>AlertasDNPM.BLL.tb_PROC_processo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_PROP_processo_operador\AlertasDNPM.BLL.tb_PROP_processo_operador.vbproj">
+      <Project>{8444BE09-B325-47B7-A8E2-C64D5E7E7302}</Project>
+      <Name>AlertasDNPM.BLL.tb_PROP_processo_operador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_ROTI_rotina\AlertasDNPM.BLL.tb_ROTI_rotina.vbproj">
+      <Project>{A1426A34-EF83-49FA-A37B-E8C97F8814A5}</Project>
+      <Name>AlertasDNPM.BLL.tb_ROTI_rotina</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.BLL.tb_UNFE_unidade_federativa\AlertasDNPM.BLL.tb_UNFE_unidade_federativa.vbproj">
+      <Project>{2178EA40-1E11-4334-B757-69B2E51FBA09}</Project>
+      <Name>AlertasDNPM.BLL.tb_UNFE_unidade_federativa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_ALER_alerta\AlertasDNPM.DTO.tb_ALER_alerta.vbproj">
+      <Project>{83D8AA2D-7632-46BD-A45D-83D4B9D7E6C4}</Project>
+      <Name>AlertasDNPM.DTO.tb_ALER_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_AVEN_alerta_vencimento\AlertasDNPM.DTO.tb_AVEN_alerta_vencimento.vbproj">
+      <Project>{3EB27529-101D-4053-87DE-B71EC0EFADD1}</Project>
+      <Name>AlertasDNPM.DTO.tb_AVEN_alerta_vencimento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_BACK_backup\AlertasDNPM.DTO.tb_BACK_backup.vbproj">
+      <Project>{3FF27441-C53D-45BF-A4F6-100140DE539B}</Project>
+      <Name>AlertasDNPM.DTO.tb_BACK_backup</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_EMPR_empresa\AlertasDNPM.DTO.tb_EMPR_empresa.vbproj">
+      <Project>{362288B7-A507-4465-BFBA-E0F47FBA34A5}</Project>
+      <Name>AlertasDNPM.DTO.tb_EMPR_empresa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_FASE_fase\AlertasDNPM.DTO.tb_FASE_fase.vbproj">
+      <Project>{3EBAA328-6D3C-4561-8A6D-E65466B57F64}</Project>
+      <Name>AlertasDNPM.DTO.tb_FASE_fase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_HSAL_historico_alerta\AlertasDNPM.DTO.tb_HSAL_historico_alerta.vbproj">
+      <Project>{005AF0FC-C6D0-44EE-A710-52041B210B99}</Project>
+      <Name>AlertasDNPM.DTO.tb_HSAL_historico_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_LESI_log_erro_sistema\AlertasDNPM.DTO.tb_LESI_log_erro_sistema.vbproj">
+      <Project>{98A4DC06-F431-49F7-9F7A-C240B39975C6}</Project>
+      <Name>AlertasDNPM.DTO.tb_LESI_log_erro_sistema</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_OPER_operador\AlertasDNPM.DTO.tb_OPER_operador.vbproj">
+      <Project>{B85284A8-98E1-472F-BD90-20A0D3697B62}</Project>
+      <Name>AlertasDNPM.DTO.tb_OPER_operador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar.vbproj">
+      <Project>{07F17ED5-E06F-4B0F-ACA7-9C67106C63A0}</Project>
+      <Name>AlertasDNPM.DTO.tb_PAUX_processo_auxiliar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PGER_parametro_geral\AlertasDNPM.DTO.tb_PGER_parametro_geral.vbproj">
+      <Project>{832C7F20-B101-4351-B890-D05E6FE444EE}</Project>
+      <Name>AlertasDNPM.DTO.tb_PGER_parametro_geral</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PRAL_processo_alerta\AlertasDNPM.DTO.tb_PRAL_processo_alerta.vbproj">
+      <Project>{D101F78B-24B6-4988-AF56-D21A7E662083}</Project>
+      <Name>AlertasDNPM.DTO.tb_PRAL_processo_alerta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PREV_processo_evento\AlertasDNPM.DTO.tb_PREV_processo_evento.vbproj">
+      <Project>{A0FC4252-1BDE-446B-AA72-5606159701E8}</Project>
+      <Name>AlertasDNPM.DTO.tb_PREV_processo_evento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PROC_processo\AlertasDNPM.DTO.tb_PROC_processo.vbproj">
+      <Project>{5D21FF74-F195-4284-B19F-1E1518E499C9}</Project>
+      <Name>AlertasDNPM.DTO.tb_PROC_processo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_PROP_processo_operador\AlertasDNPM.DTO.tb_PROP_processo_operador.vbproj">
+      <Project>{A2C4E003-6072-4ED6-828D-CE7E79D78D52}</Project>
+      <Name>AlertasDNPM.DTO.tb_PROP_processo_operador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_ROTI_rotina\AlertasDNPM.DTO.tb_ROTI_rotina.vbproj">
+      <Project>{53F334F6-CB4D-4A0B-9CBD-D12E5FDF5ACC}</Project>
+      <Name>AlertasDNPM.DTO.tb_ROTI_rotina</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AlertasDNPM.DTO.tb_UNFE_unidade_federativa\AlertasDNPM.DTO.tb_UNFE_unidade_federativa.vbproj">
+      <Project>{D8C0A8EB-E18E-4C23-93B8-6CE5C68CAFF9}</Project>
+      <Name>AlertasDNPM.DTO.tb_UNFE_unidade_federativa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Apoio\Apoio.vbproj">
+      <Project>{58877223-95F2-4F57-AF71-26C255E0BA55}</Project>
+      <Name>Apoio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JornaisOnline\JornaisOnline.vbproj">
+      <Project>{A00C26D8-E62E-43ED-9C5D-3F4268B8723B}</Project>
+      <Name>JornaisOnline</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\bin\Debug\DAL.tb_SITU_situacao_titulo.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\bin\Debug\DAL.tb_SITU_situacao_titulo.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\bin\Debug\DAL.tb_SITU_situacao_titulo.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\bin\Debug\DTO.tb_SITU_situacao_titulo.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\bin\Debug\DTO.tb_SITU_situacao_titulo.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\bin\Debug\DTO.tb_SITU_situacao_titulo.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\obj\Debug\DAL.tb_SITU_situacao_titulo.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\obj\Debug\DAL.tb_SITU_situacao_titulo.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_SITU_situacao_titulo\obj\Debug\DAL.tb_SITU_situacao_titulo.pdb

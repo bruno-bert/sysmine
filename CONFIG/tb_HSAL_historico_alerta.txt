@@ -1,0 +1,14 @@
+P|dbDNPM|tb_HSAL_historico_alerta
+T|dbDNPM|tb_HSAL_historico_alerta
+C|dbDNPM|tb_HSAL_historico_alerta|HSAL_id_historico|HSAL_id_historico|True
+C|dbDNPM|tb_HSAL_historico_alerta|HSAL_ds_email|HSAL_ds_email|True
+C|dbDNPM|tb_HSAL_historico_alerta|ALER_nm_alerta|ALER_nm_alerta|True
+C|dbDNPM|tb_HSAL_historico_alerta|PROC_cd_processo|PROC_cd_processo|True
+C|dbDNPM|tb_HSAL_historico_alerta|HSAL_ds_assunto_email|HSAL_ds_assunto_email|False
+C|dbDNPM|tb_HSAL_historico_alerta|HSAL_ds_texto_email|HSAL_ds_texto_email|False
+C|dbDNPM|tb_HSAL_historico_alerta|HSAL_dt_envio|HSAL_dt_envio|True
+C|dbDNPM|tb_HSAL_historico_alerta|HSAL_dt_tentativa_ultimo_envio|HSAL_dt_tentativa_ultimo_envio|True
+C|dbDNPM|tb_HSAL_historico_alerta|HSAL_ds_mensagem|HSAL_ds_mensagem|False
+C|dbDNPM|tb_HSAL_historico_alerta|HSAL_fl_status|HSAL_fl_status|True
+C|dbDNPM|tb_HSAL_historico_alerta|AUDT_dt_inclusao|AUDT_dt_inclusao|False
+C|dbDNPM|tb_HSAL_historico_alerta|AUDT_nm_usuario_inclusao|AUDT_nm_usuario_inclusao|False

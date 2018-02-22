@@ -1,0 +1,7 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_HSAL_historico_alerta\bin\Release\DTO.tb_HSAL_historico_alerta.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_HSAL_historico_alerta\bin\Release\DTO.tb_HSAL_historico_alerta.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_HSAL_historico_alerta\bin\Release\DTO.tb_HSAL_historico_alerta.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_HSAL_historico_alerta\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_HSAL_historico_alerta\obj\Release\DTO.tb_HSAL_historico_alerta.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_HSAL_historico_alerta\obj\Release\DTO.tb_HSAL_historico_alerta.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_HSAL_historico_alerta\obj\Release\DTO.tb_HSAL_historico_alerta.pdb

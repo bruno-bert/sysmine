@@ -1,0 +1,7 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRAL_processo_alerta\bin\Release\DTO.tb_PRAL_processo_alerta.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRAL_processo_alerta\bin\Release\DTO.tb_PRAL_processo_alerta.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRAL_processo_alerta\bin\Release\DTO.tb_PRAL_processo_alerta.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRAL_processo_alerta\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRAL_processo_alerta\obj\Release\DTO.tb_PRAL_processo_alerta.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRAL_processo_alerta\obj\Release\DTO.tb_PRAL_processo_alerta.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PRAL_processo_alerta\obj\Release\DTO.tb_PRAL_processo_alerta.pdb

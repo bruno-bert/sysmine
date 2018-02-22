@@ -1,0 +1,13 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\bin\Debug\DAL.tb_TABE_tabela.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\bin\Debug\DAL.tb_TABE_tabela.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\bin\Debug\DAL.tb_TABE_tabela.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\bin\Debug\DTO.tb_TABE_tabela.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\bin\Debug\DTO.tb_TABE_tabela.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\bin\Debug\DTO.tb_TABE_tabela.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\obj\Debug\DAL.tb_TABE_tabela.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\obj\Debug\DAL.tb_TABE_tabela.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_TABE_tabela\obj\Debug\DAL.tb_TABE_tabela.pdb

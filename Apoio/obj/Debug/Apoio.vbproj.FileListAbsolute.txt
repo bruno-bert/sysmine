@@ -1,0 +1,61 @@
+C:\Trabalho\Nova pasta\Apoio\Apoio\bin\Debug\Apoio.dll
+C:\Trabalho\Nova pasta\Apoio\Apoio\bin\Debug\Apoio.pdb
+C:\Trabalho\Nova pasta\Apoio\Apoio\bin\Debug\Apoio.xml
+C:\Trabalho\Nova pasta\Apoio\Apoio\obj\Debug\ResolveAssemblyReference.cache
+C:\Trabalho\Nova pasta\Apoio\Apoio\obj\Debug\Apoio.Resources.resources
+C:\Trabalho\Nova pasta\Apoio\Apoio\obj\Debug\Apoio.vbproj.GenerateResource.Cache
+C:\Trabalho\Nova pasta\Apoio\Apoio\obj\Debug\Apoio.dll
+C:\Trabalho\Nova pasta\Apoio\Apoio\obj\Debug\Apoio.xml
+C:\Trabalho\Nova pasta\Apoio\Apoio\obj\Debug\Apoio.pdb
+C:\Trabalho\Nova pasta\Apoio\Apoio\bin\Debug\Apoio.dll.config
+C:\Trabalho\GeneratedSolution\Integracao\Apoio\bin\Debug\Apoio.dll.config
+C:\Trabalho\GeneratedSolution\Integracao\Apoio\bin\Debug\Apoio.dll
+C:\Trabalho\GeneratedSolution\Integracao\Apoio\bin\Debug\Apoio.pdb
+C:\Trabalho\GeneratedSolution\Integracao\Apoio\bin\Debug\Apoio.xml
+C:\Trabalho\GeneratedSolution\Integracao\Apoio\obj\Debug\ResolveAssemblyReference.cache
+C:\Trabalho\GeneratedSolution\Integracao\Apoio\obj\Debug\Apoio.Resources.resources
+C:\Trabalho\GeneratedSolution\Integracao\Apoio\obj\Debug\Apoio.vbproj.GenerateResource.Cache
+C:\Trabalho\GeneratedSolution\Integracao\Apoio\obj\Debug\Apoio.dll
+C:\Trabalho\GeneratedSolution\Integracao\Apoio\obj\Debug\Apoio.xml
+C:\Trabalho\GeneratedSolution\Integracao\Apoio\obj\Debug\Apoio.pdb
+c:\GeradorCodigo\Integracao\Apoio\bin\Debug\Apoio.dll.config
+c:\GeradorCodigo\Integracao\Apoio\bin\Debug\Apoio.dll
+c:\GeradorCodigo\Integracao\Apoio\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\Integracao\Apoio\bin\Debug\Apoio.xml
+c:\GeradorCodigo\Integracao\Apoio\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\Integracao\Apoio\obj\Debug\Apoio.Resources.resources
+c:\GeradorCodigo\Integracao\Apoio\obj\Debug\Apoio.vbproj.GenerateResource.Cache
+c:\GeradorCodigo\Integracao\Apoio\obj\Debug\Apoio.dll
+c:\GeradorCodigo\Integracao\Apoio\obj\Debug\Apoio.xml
+c:\GeradorCodigo\Integracao\Apoio\obj\Debug\Apoio.pdb
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\bin\Debug\Apoio.dll.config
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\bin\Debug\Apoio.dll
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\bin\Debug\Apoio.pdb
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\bin\Debug\Apoio.xml
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\bin\Debug\Newtonsoft.Json.dll
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\obj\Debug\ResolveAssemblyReference.cache
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\obj\Debug\Apoio.Resources.resources
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\obj\Debug\Apoio.vbproj.GenerateResource.Cache
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\obj\Debug\Apoio.dll
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\obj\Debug\Apoio.xml
+C:\Trabalho\Engenap\PROA\projeto-proa\Versao 1\Solucao\Engenap.Integracao\Apoio\obj\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\Apoio\bin\Debug\Apoio.dll.config
+c:\GeradorCodigo\AlertasDNPM\Apoio\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\Apoio\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\Apoio\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\Apoio\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\Apoio\obj\Debug\Apoio.Resources.resources
+c:\GeradorCodigo\AlertasDNPM\Apoio\obj\Debug\Apoio.vbproj.GenerateResource.Cache
+c:\GeradorCodigo\AlertasDNPM\Apoio\obj\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\Apoio\obj\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\Apoio\obj\Debug\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\Apoio\bin\Debug\Apoio.dll.config
+C:\Trabalho\DNPM\AlertasDNPM\Apoio\bin\Debug\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM\Apoio\bin\Debug\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\Apoio\bin\Debug\Apoio.xml
+C:\Trabalho\DNPM\AlertasDNPM\Apoio\obj\Debug\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\Apoio\obj\Debug\Apoio.Resources.resources
+C:\Trabalho\DNPM\AlertasDNPM\Apoio\obj\Debug\Apoio.vbproj.GenerateResource.Cache
+C:\Trabalho\DNPM\AlertasDNPM\Apoio\obj\Debug\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM\Apoio\obj\Debug\Apoio.xml
+C:\Trabalho\DNPM\AlertasDNPM\Apoio\obj\Debug\Apoio.pdb

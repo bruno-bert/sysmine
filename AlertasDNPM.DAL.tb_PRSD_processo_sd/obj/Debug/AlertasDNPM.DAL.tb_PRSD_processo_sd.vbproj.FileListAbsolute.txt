@@ -1,0 +1,13 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\bin\Debug\DAL.tb_PRSD_processo_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\bin\Debug\DAL.tb_PRSD_processo_sd.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\bin\Debug\DAL.tb_PRSD_processo_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\bin\Debug\DTO.tb_PRSD_processo_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\bin\Debug\DTO.tb_PRSD_processo_sd.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\bin\Debug\DTO.tb_PRSD_processo_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\obj\Debug\DAL.tb_PRSD_processo_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\obj\Debug\DAL.tb_PRSD_processo_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PRSD_processo_sd\obj\Debug\DAL.tb_PRSD_processo_sd.pdb

@@ -1,0 +1,17 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\BLL.tb_PREV_processo_evento.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\BLL.tb_PREV_processo_evento.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\BLL.tb_PREV_processo_evento.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\DAL.tb_PREV_processo_evento.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\DTO.tb_PREV_processo_evento.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\Newtonsoft.Json.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\DAL.tb_PREV_processo_evento.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\DAL.tb_PREV_processo_evento.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\Apoio.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\DTO.tb_PREV_processo_evento.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\bin\Release\DTO.tb_PREV_processo_evento.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\obj\Release\BLL.tb_PREV_processo_evento.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\obj\Release\BLL.tb_PREV_processo_evento.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.BLL.tb_PREV_processo_evento\obj\Release\BLL.tb_PREV_processo_evento.pdb

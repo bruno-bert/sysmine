@@ -1,0 +1,13 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\bin\Debug\DAL.tb_PCON_processo_condicao.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\bin\Debug\DAL.tb_PCON_processo_condicao.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\bin\Debug\DAL.tb_PCON_processo_condicao.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\bin\Debug\DTO.tb_PCON_processo_condicao.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\bin\Debug\DTO.tb_PCON_processo_condicao.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\bin\Debug\DTO.tb_PCON_processo_condicao.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\obj\Debug\DAL.tb_PCON_processo_condicao.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\obj\Debug\DAL.tb_PCON_processo_condicao.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_PCON_processo_condicao\obj\Debug\DAL.tb_PCON_processo_condicao.pdb

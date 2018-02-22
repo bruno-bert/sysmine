@@ -1,0 +1,16 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\BLL.tb_SISD_situacao_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\BLL.tb_SISD_situacao_sd.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\BLL.tb_SISD_situacao_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\DAL.tb_SISD_situacao_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\DTO.tb_SISD_situacao_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\DTO.tb_SISD_situacao_sd.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\DTO.tb_SISD_situacao_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\DAL.tb_SISD_situacao_sd.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\bin\Debug\DAL.tb_SISD_situacao_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\obj\Debug\BLL.tb_SISD_situacao_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\obj\Debug\BLL.tb_SISD_situacao_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_SISD_situacao_sd\obj\Debug\BLL.tb_SISD_situacao_sd.pdb

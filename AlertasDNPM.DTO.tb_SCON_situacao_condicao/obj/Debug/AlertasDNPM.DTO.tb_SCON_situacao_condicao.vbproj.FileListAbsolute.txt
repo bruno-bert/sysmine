@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SCON_situacao_condicao\bin\Debug\DTO.tb_SCON_situacao_condicao.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SCON_situacao_condicao\bin\Debug\DTO.tb_SCON_situacao_condicao.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SCON_situacao_condicao\bin\Debug\DTO.tb_SCON_situacao_condicao.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SCON_situacao_condicao\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SCON_situacao_condicao\obj\Debug\DTO.tb_SCON_situacao_condicao.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SCON_situacao_condicao\obj\Debug\DTO.tb_SCON_situacao_condicao.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SCON_situacao_condicao\obj\Debug\DTO.tb_SCON_situacao_condicao.pdb

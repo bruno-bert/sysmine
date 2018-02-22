@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\bin\Release\DTO.tb_SISD_situacao_sd.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\bin\Release\DTO.tb_SISD_situacao_sd.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\bin\Release\DTO.tb_SISD_situacao_sd.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Release\DTO.tb_SISD_situacao_sd.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Release\DTO.tb_SISD_situacao_sd.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Release\DTO.tb_SISD_situacao_sd.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SISD_situacao_sd\bin\Release\DTO.tb_SISD_situacao_sd.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SISD_situacao_sd\bin\Release\DTO.tb_SISD_situacao_sd.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SISD_situacao_sd\bin\Release\DTO.tb_SISD_situacao_sd.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Release\DTO.tb_SISD_situacao_sd.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Release\DTO.tb_SISD_situacao_sd.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_SISD_situacao_sd\obj\Release\DTO.tb_SISD_situacao_sd.pdb

@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRSD_processo_sd\bin\Debug\DTO.tb_PRSD_processo_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRSD_processo_sd\bin\Debug\DTO.tb_PRSD_processo_sd.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRSD_processo_sd\bin\Debug\DTO.tb_PRSD_processo_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRSD_processo_sd\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRSD_processo_sd\obj\Debug\DTO.tb_PRSD_processo_sd.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRSD_processo_sd\obj\Debug\DTO.tb_PRSD_processo_sd.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PRSD_processo_sd\obj\Debug\DTO.tb_PRSD_processo_sd.pdb

@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\bin\Release\DTO.tb_PAUX_processo_auxiliar.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\bin\Release\DTO.tb_PAUX_processo_auxiliar.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\bin\Release\DTO.tb_PAUX_processo_auxiliar.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Release\DTO.tb_PAUX_processo_auxiliar.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Release\DTO.tb_PAUX_processo_auxiliar.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Release\DTO.tb_PAUX_processo_auxiliar.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\bin\Release\DTO.tb_PAUX_processo_auxiliar.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\bin\Release\DTO.tb_PAUX_processo_auxiliar.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\bin\Release\DTO.tb_PAUX_processo_auxiliar.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Release\DTO.tb_PAUX_processo_auxiliar.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Release\DTO.tb_PAUX_processo_auxiliar.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Release\DTO.tb_PAUX_processo_auxiliar.pdb

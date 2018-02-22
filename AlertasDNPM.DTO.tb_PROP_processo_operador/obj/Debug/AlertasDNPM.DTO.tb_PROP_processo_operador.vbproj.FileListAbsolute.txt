@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PROP_processo_operador\bin\Debug\DTO.tb_PROP_processo_operador.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PROP_processo_operador\bin\Debug\DTO.tb_PROP_processo_operador.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PROP_processo_operador\bin\Debug\DTO.tb_PROP_processo_operador.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PROP_processo_operador\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PROP_processo_operador\obj\Debug\DTO.tb_PROP_processo_operador.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PROP_processo_operador\obj\Debug\DTO.tb_PROP_processo_operador.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PROP_processo_operador\obj\Debug\DTO.tb_PROP_processo_operador.pdb

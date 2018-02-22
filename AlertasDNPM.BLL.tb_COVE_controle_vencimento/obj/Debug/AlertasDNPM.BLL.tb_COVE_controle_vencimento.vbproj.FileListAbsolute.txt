@@ -1,0 +1,16 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\BLL.tb_COVE_controle_vencimento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\BLL.tb_COVE_controle_vencimento.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\BLL.tb_COVE_controle_vencimento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\DAL.tb_COVE_controle_vencimento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\DTO.tb_COVE_controle_vencimento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\DTO.tb_COVE_controle_vencimento.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\DTO.tb_COVE_controle_vencimento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\DAL.tb_COVE_controle_vencimento.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\bin\Debug\DAL.tb_COVE_controle_vencimento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\obj\Debug\BLL.tb_COVE_controle_vencimento.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\obj\Debug\BLL.tb_COVE_controle_vencimento.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_COVE_controle_vencimento\obj\Debug\BLL.tb_COVE_controle_vencimento.pdb

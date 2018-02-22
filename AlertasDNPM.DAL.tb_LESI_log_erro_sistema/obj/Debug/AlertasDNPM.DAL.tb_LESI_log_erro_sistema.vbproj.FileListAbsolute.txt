@@ -1,0 +1,14 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Debug\DAL.tb_LESI_log_erro_sistema.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Debug\DAL.tb_LESI_log_erro_sistema.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Debug\DAL.tb_LESI_log_erro_sistema.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Debug\DTO.tb_LESI_log_erro_sistema.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Debug\DTO.tb_LESI_log_erro_sistema.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\bin\Debug\DTO.tb_LESI_log_erro_sistema.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\obj\Debug\DAL.tb_LESI_log_erro_sistema.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\obj\Debug\DAL.tb_LESI_log_erro_sistema.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DAL.tb_LESI_log_erro_sistema\obj\Debug\DAL.tb_LESI_log_erro_sistema.pdb

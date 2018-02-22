@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\bin\Debug\DTO.tb_PORG_processo_orgao.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\bin\Debug\DTO.tb_PORG_processo_orgao.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\bin\Debug\DTO.tb_PORG_processo_orgao.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Debug\DTO.tb_PORG_processo_orgao.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Debug\DTO.tb_PORG_processo_orgao.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PORG_processo_orgao\obj\Debug\DTO.tb_PORG_processo_orgao.pdb

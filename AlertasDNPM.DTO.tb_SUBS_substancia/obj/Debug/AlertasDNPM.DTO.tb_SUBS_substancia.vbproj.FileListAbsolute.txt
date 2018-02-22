@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\bin\Debug\DTO.tb_SUBS_substancia.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\bin\Debug\DTO.tb_SUBS_substancia.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\bin\Debug\DTO.tb_SUBS_substancia.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Debug\DTO.tb_SUBS_substancia.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Debug\DTO.tb_SUBS_substancia.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_SUBS_substancia\obj\Debug\DTO.tb_SUBS_substancia.pdb

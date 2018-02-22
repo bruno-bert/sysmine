@@ -1,0 +1,17 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\BLL.tb_FASE_fase.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\BLL.tb_FASE_fase.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\BLL.tb_FASE_fase.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\Apoio.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\DAL.tb_FASE_fase.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\DTO.tb_FASE_fase.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\Newtonsoft.Json.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\Apoio.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\Apoio.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\DTO.tb_FASE_fase.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\DTO.tb_FASE_fase.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\DAL.tb_FASE_fase.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\bin\Debug\DAL.tb_FASE_fase.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\obj\Debug\BLL.tb_FASE_fase.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\obj\Debug\BLL.tb_FASE_fase.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.BLL.tb_FASE_fase\obj\Debug\BLL.tb_FASE_fase.pdb

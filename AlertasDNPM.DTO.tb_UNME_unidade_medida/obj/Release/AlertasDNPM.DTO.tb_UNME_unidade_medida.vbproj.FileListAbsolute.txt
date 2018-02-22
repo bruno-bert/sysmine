@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UNME_unidade_medida\bin\Release\DTO.tb_UNME_unidade_medida.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UNME_unidade_medida\bin\Release\DTO.tb_UNME_unidade_medida.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UNME_unidade_medida\bin\Release\DTO.tb_UNME_unidade_medida.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UNME_unidade_medida\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UNME_unidade_medida\obj\Release\DTO.tb_UNME_unidade_medida.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UNME_unidade_medida\obj\Release\DTO.tb_UNME_unidade_medida.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_UNME_unidade_medida\obj\Release\DTO.tb_UNME_unidade_medida.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UNME_unidade_medida\bin\Release\DTO.tb_UNME_unidade_medida.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UNME_unidade_medida\bin\Release\DTO.tb_UNME_unidade_medida.pdb
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UNME_unidade_medida\bin\Release\DTO.tb_UNME_unidade_medida.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UNME_unidade_medida\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UNME_unidade_medida\obj\Release\DTO.tb_UNME_unidade_medida.dll
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UNME_unidade_medida\obj\Release\DTO.tb_UNME_unidade_medida.xml
+C:\Trabalho\DNPM\AlertasDNPM.dev\AlertasDNPM.DTO.tb_UNME_unidade_medida\obj\Release\DTO.tb_UNME_unidade_medida.pdb

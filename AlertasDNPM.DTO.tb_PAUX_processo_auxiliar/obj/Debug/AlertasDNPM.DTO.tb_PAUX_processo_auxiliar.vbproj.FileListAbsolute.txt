@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\bin\Debug\DTO.tb_PAUX_processo_auxiliar.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\bin\Debug\DTO.tb_PAUX_processo_auxiliar.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\bin\Debug\DTO.tb_PAUX_processo_auxiliar.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Debug\DTO.tb_PAUX_processo_auxiliar.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Debug\DTO.tb_PAUX_processo_auxiliar.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PAUX_processo_auxiliar\obj\Debug\DTO.tb_PAUX_processo_auxiliar.pdb

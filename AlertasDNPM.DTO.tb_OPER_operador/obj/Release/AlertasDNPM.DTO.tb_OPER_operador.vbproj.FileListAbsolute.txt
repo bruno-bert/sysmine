@@ -1,0 +1,7 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\bin\Release\DTO.tb_OPER_operador.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\bin\Release\DTO.tb_OPER_operador.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\bin\Release\DTO.tb_OPER_operador.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\obj\Release\DTO.tb_OPER_operador.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\obj\Release\DTO.tb_OPER_operador.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DTO.tb_OPER_operador\obj\Release\DTO.tb_OPER_operador.pdb

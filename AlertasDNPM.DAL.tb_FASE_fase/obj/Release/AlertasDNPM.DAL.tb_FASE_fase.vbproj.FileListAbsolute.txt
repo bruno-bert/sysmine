@@ -1,0 +1,14 @@
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\bin\Release\DAL.tb_FASE_fase.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\bin\Release\DAL.tb_FASE_fase.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\bin\Release\DAL.tb_FASE_fase.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\bin\Release\Apoio.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\bin\Release\DTO.tb_FASE_fase.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\bin\Release\Newtonsoft.Json.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\bin\Release\Apoio.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\bin\Release\Apoio.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\bin\Release\DTO.tb_FASE_fase.pdb
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\bin\Release\DTO.tb_FASE_fase.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\obj\Release\ResolveAssemblyReference.cache
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\obj\Release\DAL.tb_FASE_fase.dll
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\obj\Release\DAL.tb_FASE_fase.xml
+C:\Trabalho\DNPM\AlertasDNPM\AlertasDNPM.DAL.tb_FASE_fase\obj\Release\DAL.tb_FASE_fase.pdb

@@ -1,0 +1,7 @@
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PINF_processo_info\bin\Debug\DTO.tb_PINF_processo_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PINF_processo_info\bin\Debug\DTO.tb_PINF_processo_info.pdb
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PINF_processo_info\bin\Debug\DTO.tb_PINF_processo_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PINF_processo_info\obj\Debug\ResolveAssemblyReference.cache
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PINF_processo_info\obj\Debug\DTO.tb_PINF_processo_info.dll
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PINF_processo_info\obj\Debug\DTO.tb_PINF_processo_info.xml
+c:\GeradorCodigo\AlertasDNPM\AlertasDNPM.DTO.tb_PINF_processo_info\obj\Debug\DTO.tb_PINF_processo_info.pdb
